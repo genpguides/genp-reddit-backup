@@ -1,0 +1,1 @@
+☠️ Community that discusses GenP, other applications and methods for Windows, inclusive several Adobe products.
