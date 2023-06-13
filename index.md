@@ -6,8 +6,8 @@
 
 [6]: https://www.reddit.com/r/GenP/comments/qpcnob/friendly_reminder_to_new_folks
 [7]: https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/
-[8]: https://uranium2147.github.io/genp/
-[9]: https://github.com/Uranium2147/genp/
+[8]: https://genpguides.github.io/
+[9]: https://github.com/genpguides/genp-reddit-backup
 
 
 ---
