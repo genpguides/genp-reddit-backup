@@ -1,4 +1,4 @@
-***Updated: 31-May-2023***
+***Updated: 23-June-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -662,6 +662,8 @@ This is for Adobe 2020, but may work with other installs.
 &amp;nbsp;
 
 **2. Choose which one you want: Monkrus Collection OR Individual App of choice from the Download links**
+
+&gt; ⚠️ AntiVirus may have blacklisted the site causing it to not "load / could not reach url", if you disabled AV should load normally.
 
 &gt; To translate the page to your language - on the top-right says "Translate with flags icons",
 
