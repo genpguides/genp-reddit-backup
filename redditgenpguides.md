@@ -1,4 +1,4 @@
-***Updated: 23-June-2023***
+***Updated: 24-June-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -330,6 +330,8 @@ Once that is done, you can select (Q) to quit CCStopper.
 &gt; Only working for now in Beta version of Photoshop
 
 In CC go on `Apps &gt; Categories &gt; Beta Apps &gt; Photoshop Beta`
+
+Be aware: This is BETA and requires access to servers, so we're not going through the trouble of trying to figure out to make it work.
 
 ![](%%Guide2-11-min%%)
 
