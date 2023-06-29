@@ -30,7 +30,7 @@
 
 &gt; **Mac:** Go to [r/AdobeZii](https://www.reddit.com/r/AdobeZii) or use [Cmacked](https://cmacked.com/)
 
-&gt; &gt; **r/Piracy:** They might have other options worth exploring (however we don't offer support to it) [their megathread, check Software](https://www.reddit.com/r/Piracy/wiki/megathread/)
+&gt; &gt; **r/Piracy:** They might have other options worth exploring (however we don't offer support to it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the software category.
 
 &amp;nbsp;
 
