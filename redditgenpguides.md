@@ -1,4 +1,4 @@
-***Updated: 24-June-2023***
+***Updated: 04-Jully-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -14,6 +14,7 @@
 
 [17]: https://www.qbittorrent.org/download.php
 [18]: https://w14.monkrus.ws/search?q=Adobe+Photoshop&amp;max-results=20&amp;by-date=true
+[35]: https://w14.monkrus.ws/search?q=firefly&amp;max-results=20&amp;by-date=true
 [19]: https://w14.monkrus.ws/search?q=Adobe+Illustrator&amp;max-results=20&amp;by-date=true
 [20]: https://w14.monkrus.ws/search?q=Adobe+Premiere+Pro&amp;max-results=20&amp;by-date=true
 [21]: https://w14.monkrus.ws/search?q=Adobe+After+Effects&amp;max-results=20&amp;by-date=true
@@ -74,6 +75,8 @@
 &gt;🔗 **[Monkrus Individual - Lightroom Classic][15]**
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
+
+&gt;🔗 **[Monkrus Individual - Firefly][35]**
 
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
@@ -455,8 +458,6 @@ Another option (but not covered below)
 
 &amp;nbsp;
 
-xxx
-
 **4. Remove Windows Firewall rules or Host File lines**
 
 &gt; **For Windows Firewall**
@@ -615,13 +616,15 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
+&gt;🔗 **[Monkrus Individual - Firefly][35]**
+
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
 &gt;🔗 **[Monkrus Individual - Premiere Pro][20]**
 
 &gt;🔗 **[Monkrus Individual - Media Encoder][31]**
 
-&gt;&gt; *Must be compatible with same version of Premiere / After Effects*
+&gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions*
 
 &gt;🔗 **[Monkrus Individual - After Effects][21]**
 
@@ -643,9 +646,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]**
 
-&gt;&gt; **Both versions must match**
-
-&gt;&gt; *read description of Speech-to-Text in the forum, tells which premiere version it got extracted from*
+&gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions - "extracted from ... version"*
 
 &gt;🔗 **[Monkrus Collection 2023][30]** - *(All-Apps-Package ~23GB)*
 
