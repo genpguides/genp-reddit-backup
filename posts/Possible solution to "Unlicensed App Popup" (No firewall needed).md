@@ -67,103 +67,84 @@ Will basically try to edit the Host file located in:
 
 The same can be done manually by going to the same location above, Right-click "hosts" file, "Open with" notepad, add the same lines under everything that already exists in the file to it, then just save the file and reboot your system:
 
-    # BLOCK ADOBE #
+    # BLOCK ADOBE COMPLETE #
     0.0.0.0 ic.adobe.io
-    0.0.0.0 52.6.155.20
-    0.0.0.0 52.10.49.85
-    0.0.0.0 23.22.30.141
-    0.0.0.0 34.215.42.13
-    0.0.0.0 52.84.156.37
-    0.0.0.0 65.8.207.109
-    0.0.0.0 3.220.11.113
-    0.0.0.0 3.221.72.231
-    0.0.0.0 3.216.32.253
-    0.0.0.0 3.208.248.199
-    0.0.0.0 3.219.243.226
-    0.0.0.0 13.227.103.57
-    0.0.0.0 34.192.151.90
-    0.0.0.0 34.237.241.83
-    0.0.0.0 44.240.189.42
-    0.0.0.0 52.20.222.155
-    0.0.0.0 52.208.86.132
-    0.0.0.0 54.208.86.132
-    0.0.0.0 63.140.38.120
-    0.0.0.0 63.140.38.160
-    0.0.0.0 63.140.38.169
-    0.0.0.0 63.140.38.219
-    0.0.0.0 wip.adobe.com
     0.0.0.0 adobeereg.com
-    0.0.0.0 18.228.243.121
-    0.0.0.0 18.230.164.221
-    0.0.0.0 54.156.135.114
-    0.0.0.0 54.221.228.134
-    0.0.0.0 54.224.241.105
-    0.0.0.0 100.24.211.130
-    0.0.0.0 162.247.242.20
+    0.0.0.0 wip.adobe.com
     0.0.0.0 wip1.adobe.com
     0.0.0.0 wip2.adobe.com
     0.0.0.0 wip3.adobe.com
     0.0.0.0 wip4.adobe.com
-    0.0.0.0 3dns.adobe.com
-    0.0.0.0 ereg.adobe.com
-    0.0.0.0 199.232.114.137
-    0.0.0.0 bam.nr-data.net
-    0.0.0.0 practivate.adobe
-    0.0.0.0 ood.opsource.net
-    0.0.0.0 crl.verisign.net
-    0.0.0.0 3dns-1.adobe.com
-    0.0.0.0 3dns-2.adobe.com
-    0.0.0.0 3dns-3.adobe.com
-    0.0.0.0 3dns-4.adobe.com
-    0.0.0.0 hl2rcv.adobe.com
-    0.0.0.0 genuine.adobe.com
-    0.0.0.0 www.adobeereg.com
     0.0.0.0 www.wip.adobe.com
     0.0.0.0 www.wip1.adobe.com
     0.0.0.0 www.wip2.adobe.com
     0.0.0.0 www.wip3.adobe.com
     0.0.0.0 www.wip4.adobe.com
     0.0.0.0 ereg.wip.adobe.com
-    0.0.0.0 activate.adobe.com
-    0.0.0.0 adobe-dns.adobe.com
     0.0.0.0 ereg.wip1.adobe.com
     0.0.0.0 ereg.wip2.adobe.com
     0.0.0.0 ereg.wip3.adobe.com
     0.0.0.0 ereg.wip4.adobe.com
-    0.0.0.0 cc-api-data.adobe.io
-    0.0.0.0 practivate.adobe.ntp
-    0.0.0.0 practivate.adobe.ipp
-    0.0.0.0 practivate.adobe.com
-    0.0.0.0 adobe-dns-1.adobe.com
-    0.0.0.0 adobe-dns-2.adobe.com
-    0.0.0.0 adobe-dns-3.adobe.com
-    0.0.0.0 adobe-dns-4.adobe.com
-    0.0.0.0 lm.licenses.adobe.com
-    0.0.0.0 hlrcv.stage.adobe.com
-    0.0.0.0 prod.adobegenuine.com
-    0.0.0.0 practivate.adobe.newoa
+    0.0.0.0 activate.adobe.com
     0.0.0.0 activate.wip.adobe.com
     0.0.0.0 activate-sea.adobe.com
-    0.0.0.0 uds.licenses.adobe.com
-    0.0.0.0 k.sni.global.fastly.net
     0.0.0.0 activate-sjc0.adobe.com
     0.0.0.0 activate.wip1.adobe.com
     0.0.0.0 activate.wip2.adobe.com
     0.0.0.0 activate.wip3.adobe.com
     0.0.0.0 activate.wip4.adobe.com
+    0.0.0.0 3dns.adobe.com
+    0.0.0.0 ereg.adobe.com
+    0.0.0.0 bam.nr-data.net
+    0.0.0.0 ood.opsource.net
+    0.0.0.0 crl.verisign.net
+    0.0.0.0 hl2rcv.adobe.com
+    0.0.0.0 genuine.adobe.com
+    0.0.0.0 www.adobeereg.com
+    0.0.0.0 cc-api-data.adobe.io
+    0.0.0.0 3dns-1.adobe.com
+    0.0.0.0 3dns-2.adobe.com
+    0.0.0.0 3dns-3.adobe.com
+    0.0.0.0 3dns-4.adobe.com
+    0.0.0.0 adobe-dns.adobe.com
+    0.0.0.0 adobe-dns-1.adobe.com
+    0.0.0.0 adobe-dns-2.adobe.com
+    0.0.0.0 adobe-dns-3.adobe.com
+    0.0.0.0 adobe-dns-4.adobe.com
+    0.0.0.0 practivate.adobe
+    0.0.0.0 practivate.adobe.ntp
+    0.0.0.0 practivate.adobe.ipp
+    0.0.0.0 practivate.adobe.com
+    0.0.0.0 practivate.adobe.newoa
+    0.0.0.0 lm.licenses.adobe.com
+    0.0.0.0 hlrcv.stage.adobe.com
+    0.0.0.0 prod.adobegenuine.com
+    0.0.0.0 uds.licenses.adobe.com
+    0.0.0.0 k.sni.global.fastly.net
     0.0.0.0 na1r.services.adobe.com
     0.0.0.0 lmlicenses.wip4.adobe.com
     0.0.0.0 na2m-pr.licenses.adobe.com
     0.0.0.0 wwis-dubc1-vip60.adobe.com
     0.0.0.0 workflow-ui-prod.licensingstack.com
-    0.0.0.0 cctypekit.adobe.io
-    0.0.0.0 aoorovjtha.adobe.io
-    0.0.0.0 5zgzzv92gn.adobe.io
     0.0.0.0 jc95y2v12r.adobe.io
     0.0.0.0 ph0f2h2csf.adobe.io
-    0.0.0.0 2ftem87osk.adobe.io
     0.0.0.0 b5kbg2ggog.adobe.io
     0.0.0.0 guzg78logz.adobe.io
+    # THIS SHORTLIST PROBABLY ENOUGH TO BLOCK ADOBE WITHOUT ISSUES HOPEFULLY #
+    0.0.0.0 ic.adobe.io
+    0.0.0.0 0mo5a70cqa.adobe.io    
+    0.0.0.0 1b9khekel6.adobe.io    
+    0.0.0.0 23ynjitwt5.adobe.io    
+    0.0.0.0 2ftem87osk.adobe.io    
+    0.0.0.0 3ca52znvmj.adobe.io    
+    0.0.0.0 3d3wqt96ht.adobe.io    
+    0.0.0.0 4vzokhpsbs.adobe.io    
+    0.0.0.0 5zgzzv92gn.adobe.io    
+    0.0.0.0 69tu0xswvq.adobe.io    
+    0.0.0.0 7g2gzgk9g1.adobe.io    
+    0.0.0.0 7m31guub0q.adobe.io    
+    0.0.0.0 7sj9n87sls.adobe.io    
+    0.0.0.0 8ncdzpmmrg.adobe.io
 
 # ---------------------
 
@@ -258,3 +239,5 @@ If it happens, do **Option 2 and create an Outbound rule** for the programs " .e
 &amp;#x200B;
 
 **Cheers!**
+
+*Update: IP List has been cleaned up.*
