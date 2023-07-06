@@ -4,7 +4,7 @@
 |:-|:-|:-|:-|:-|:-|:-|
 
 
-*- Special thanks to eaaasun and /dev/null*
+*- Special thanks to eaaasun, dev/null and many other members!*
 
 &amp;#x200B;
 
@@ -101,7 +101,6 @@ The same can be done manually by going to the same location above, Right-click "
     0.0.0.0 hl2rcv.adobe.com
     0.0.0.0 genuine.adobe.com
     0.0.0.0 www.adobeereg.com
-    0.0.0.0 cc-api-data.adobe.io
     0.0.0.0 3dns-1.adobe.com
     0.0.0.0 3dns-2.adobe.com
     0.0.0.0 3dns-3.adobe.com
@@ -126,12 +125,9 @@ The same can be done manually by going to the same location above, Right-click "
     0.0.0.0 na2m-pr.licenses.adobe.com
     0.0.0.0 wwis-dubc1-vip60.adobe.com
     0.0.0.0 workflow-ui-prod.licensingstack.com
-    0.0.0.0 jc95y2v12r.adobe.io
-    0.0.0.0 ph0f2h2csf.adobe.io
-    0.0.0.0 b5kbg2ggog.adobe.io
-    0.0.0.0 guzg78logz.adobe.io
     # THIS SHORTLIST PROBABLY ENOUGH TO BLOCK ADOBE WITHOUT ISSUES HOPEFULLY #
     0.0.0.0 ic.adobe.io
+    0.0.0.0 cc-api-data.adobe.io
     0.0.0.0 0mo5a70cqa.adobe.io    
     0.0.0.0 1b9khekel6.adobe.io    
     0.0.0.0 23ynjitwt5.adobe.io    
@@ -145,6 +141,10 @@ The same can be done manually by going to the same location above, Right-click "
     0.0.0.0 7m31guub0q.adobe.io    
     0.0.0.0 7sj9n87sls.adobe.io    
     0.0.0.0 8ncdzpmmrg.adobe.io
+    0.0.0.0 jc95y2v12r.adobe.io
+    0.0.0.0 ph0f2h2csf.adobe.io
+    0.0.0.0 b5kbg2ggog.adobe.io
+    0.0.0.0 guzg78logz.adobe.io
 
 # ---------------------
 
