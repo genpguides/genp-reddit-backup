@@ -30,6 +30,8 @@
 
 &gt; **Mac:** Go to [r/AdobeZii](https://www.reddit.com/r/AdobeZii) or use [Cmacked](https://cmacked.com/)
 
+&gt; Linux, AtlasOS or anyother OS.
+
 
 **Regarding plugins or MacOS** check **r/Piracy:** They might have options worth exploring (however we don't offer support to it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _software category_.
 
