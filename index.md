@@ -32,8 +32,9 @@
 
 &gt; Linux, AtlasOS or anyother OS.
 
+### **Regarding plugins, addon's or MacOS**
 
-**Regarding plugins or MacOS** check **r/Piracy:** They might have options worth exploring (however we don't offer support to it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _software category_.
+Check **r/Piracy:** They might have options worth exploring (we don't offer support to it, so stop asking for it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _software category_.
 
 &amp;nbsp;
 
