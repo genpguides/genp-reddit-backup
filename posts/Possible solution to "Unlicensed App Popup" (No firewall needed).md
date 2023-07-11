@@ -157,11 +157,11 @@ Example will be for "Photoshop" but the method is the same across programs.
 
 &gt;`Windows &gt; Windows Firewall &gt; Advanced Settings`
 
-[⚠️ If you see this, All firewall rules must be done in your antivirus firewall settings, and not on windows defender firewall \(otherwise they will have no effect\) - But just in case, have in both lol](https://preview.redd.it/9dkbvchw7b2a1.png?width=666&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a9ac7765525928d8f06e5f471252232fb1bf49b6)
+[⚠️ If you see this, All firewall rules must be done in your antivirus firewall settings, and not on windows defender firewall \(otherwise they will have no effect\) - But just in case, have in both lol](https://preview.redd.it/9dkbvchw7b2a1.png?width=666&amp;format=png&amp;auto=webp&amp;s=3125a3bd2aa17875c94a657a9793f808a73daa03)
 
-[Outbound Rules should be more than enough. Only do both if the first doesn't work.](https://preview.redd.it/urxwddgq8b2a1.png?width=934&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=18496bc076753f8e437f5f78f804ecd460017129)
+[Outbound Rules should be more than enough. Only do both if the first doesn't work.](https://preview.redd.it/urxwddgq8b2a1.png?width=934&amp;format=png&amp;auto=webp&amp;s=44fc398cdcbca9112a3927f7e4b7315817324fb0)
 
-[When looking for the program path, we want the Actual Program \\".exe\\" and not the shortcuts. How to distinct them - LEFT: SHORTCUT \\".EXE\\" | RIGHT: ACTUAL \\".EXE\\"](https://preview.redd.it/qt76zlp3vb2a1.png?width=221&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=689ea6820cbc806bc45602ee9926aa531e6bb289)
+[When looking for the program path, we want the Actual Program \\".exe\\" and not the shortcuts. How to distinct them - LEFT: SHORTCUT \\".EXE\\" | RIGHT: ACTUAL \\".EXE\\"](https://preview.redd.it/qt76zlp3vb2a1.png?width=221&amp;format=png&amp;auto=webp&amp;s=a00255900a139043adaed0216bb1aaf14794d334)
 
 On **Outbound** section:
 
