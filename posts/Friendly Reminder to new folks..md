@@ -1,6 +1,6 @@
 &amp;#x200B;
 
-https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=df642c630ecd15ce02ae48f9fbe8b69e3acbefaf
+https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp&amp;s=62aa3f8a17d5a9eabfd76ab33d2a987b35d6c2d4
 
 # ⚠️ PLEASE READ AND PAY ATTENTION TO THE RESPECTIVE GUIDES INSTRUCTIONS IN THIS SUBREDDIT. IT'S ALL THERE!
 
