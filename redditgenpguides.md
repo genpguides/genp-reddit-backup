@@ -1,4 +1,4 @@
-***Updated: 04-Jully-2023***
+***Updated: 18-July-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -76,7 +76,7 @@
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
-&gt;🔗 **[Monkrus Individual - Firefly][35]**
+&gt;🔗 **[Monkrus Individual - Firefly AI Support][35]**
 
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
@@ -616,7 +616,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
-&gt;🔗 **[Monkrus Individual - Firefly][35]**
+&gt;🔗 **[Monkrus Individual - Firefly AI Support][35]**
 
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
@@ -698,7 +698,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &amp;nbsp;
 
-**3. Go to the downloaded folder, find the **disk or .iso file**, double-click to open and run "autoplay.exe" as ADMINISTRATOR.**
+**3. Go to the downloaded folder, find the "disk or .iso file", double-click to open and run "autoplay.exe" as ADMINISTRATOR.**
 
 &gt; For collection: Choose whatever apps you want to install (you don't need all).
 
