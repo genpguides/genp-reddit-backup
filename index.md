@@ -78,6 +78,8 @@ Check **r/Piracy:** They might have options worth exploring (we don't offer supp
 
 #📖 ➜ **[Patching Methods][2]**
 
+- RECOMMENDED TO READ BEFORE DOING ANYTHING
+
 - Brief overview of what each method is, what it does, possible issues, and update related questions
 
 &amp;nbsp;
@@ -114,7 +116,7 @@ Others may not be up-to-date, so don't used them for now
 
 #📝 ➜ **[Compatibility List][4]**
 
-- Self explanatory
+- Self explanatory (not up do date, for now ignore it)
 
 &amp;nbsp;
 
