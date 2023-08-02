@@ -6,7 +6,7 @@ https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp
 
 # Tips for new people:
 
-&gt;Read first the **Patching Methods in the WIKI**, so you know the differences between them.  
+&gt;Read first the [Patching Methods](https://www.reddit.com/r/GenP/wiki/index/#wiki_.1F4D6_.279C_patching_methods) **in the WIKI**, so you know the differences between them.  
 &gt;  
 &gt;For folks in old-reddit: Guides are in New-Reddit-Style only, all important links can only be found that way, however through the wiki you should be able to reach them.  
 &gt;  
