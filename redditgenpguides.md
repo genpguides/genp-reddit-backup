@@ -1,4 +1,4 @@
-***Updated: 18-July-2023***
+***Updated: 08-August-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -709,6 +709,14 @@ This is for Adobe 2020, but may work with other installs.
 **If the install window doesn't show up or Errors (failed to...)**
 
 &gt; Turn anti-virus OFF for the installation process - that may be preventing the window from showing up (may be windows defender or other AV you have). You may turn it back on after the install.
+
+&amp;nbsp;
+
+**4. Once everything is installed and working properly you can EJECT the DVDdrive found at "MyComputer / This PC"**
+
+&gt; The DVDdrive is created when you open the ".iso" file, which is in fact a virtual installation CD - It has no other purpose besides that.
+
+&gt; You may also delete or not the files extracted from the torrent (installer). Up to you if you want to keep them.
 
 &amp;nbsp;
 
