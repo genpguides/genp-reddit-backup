@@ -86,7 +86,7 @@
 
 &gt; Don't really know specifically how its patched.
 
-&gt; There has been very few hacking related complaints towards the **Collection version** *(accounts like google, instagram or facebook)*, but it's never clear since usually people download from other random sources, got it from youtube, use bunch of other crap, and so on.
+&gt; There has been some hacking related complaints towards the **Collection version specifically** *(accounts like google, instagram or facebook)*, but it's never clear since usually people download from other random sources, got it from youtube, use bunch of other crap, and so on.
 
 &gt; At the same time, **there are those who use / used individual version or even the collection, and have never had any of those related issues at all.**
 
@@ -96,7 +96,7 @@
 
 &gt; ❗ **The links in the reddit and suggestions are to the source, and not other random file hosts.**
 
-&gt; If going with Monkrus, please use the **Individuals** and not the collection.
+&gt; If going with Monkrus, please use only the **Individual versions** (these should alright) and NEVER the collection.
 
 &amp;nbsp;
 
