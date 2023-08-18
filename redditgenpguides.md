@@ -1,4 +1,4 @@
-***Updated: 17-August-2023***
+***Updated: 18-August-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -110,7 +110,7 @@
 
 &gt;&gt; *read description of Speech-to-Text in the forum, tells which premiere version it got extracted from*
 
-&gt;🔗 **[Monkrus Collection 2023][30]** - *(All-Apps-Package ~23GB)*
+&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~
 
 &amp;nbsp;
 
@@ -648,7 +648,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions - "extracted from ... version"*
 
-&gt;🔗 **[Monkrus Collection 2023][30]** - *(All-Apps-Package ~23GB)*
+&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~
 
 &amp;nbsp;
 
@@ -700,9 +700,11 @@ This is for Adobe 2020, but may work with other installs.
 
 **3. Go to the downloaded folder, find the "disk or .iso file", double-click to open and run "autoplay.exe" as ADMINISTRATOR.**
 
-&gt; For collection: Choose whatever apps you want to install (you don't need all).
+&gt; For individual: Proceed with the install setup.
 
-⚠️ **Attention - The apps themselves are to work without an account signed in**
+&gt; For collection: Select the apps you want to install (you don't need all).
+
+⚠️ **Attention - Majority apps should work without any account signed in (cloud-based might need)**
 
 &amp;nbsp;
 
@@ -717,6 +719,10 @@ This is for Adobe 2020, but may work with other installs.
 &gt; The DVDdrive is created when you open the ".iso" file, which is in fact a virtual installation CD - It has no other purpose besides that.
 
 &gt; You may also delete or not the files extracted from the torrent (installer). Up to you if you want to keep them.
+
+&amp;nbsp;
+
+**🪙 To update Monkrus just install the newer version on top of the old one**
 
 &amp;nbsp;
 
