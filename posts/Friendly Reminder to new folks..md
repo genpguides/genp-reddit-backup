@@ -6,9 +6,11 @@ https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp
 
 # Tips for new people:
 
-&gt;Read first the [Patching Methods](https://www.reddit.com/r/GenP/wiki/index/#wiki_.1F4D6_.279C_patching_methods) **in the WIKI**, so you know the differences between them.  
+&gt;**ALWAYS HAVE AN EXTERNAL BACK-UP OF ALL YOUR FILES** *- This is the most important rule.*  
 &gt;  
-&gt;For folks in old-reddit: Guides are in New-Reddit-Style only, all important links can only be found that way, however through the wiki you should be able to reach them.  
+&gt;First read the [Patching Methods](https://www.reddit.com/r/GenP/wiki/index/#wiki_.1F4D6_.279C_patching_methods) **in the WIKI**, so you know the differences between the methods.  
+&gt;  
+&gt;For folks in old-reddit: Guides are in *New-Reddit-Style* only, all important links can only be found that way, however through the wiki you should be able to reach them.  
 &gt;  
 &gt;Recommend watching **OUR OWN** video tutorials *(if available)* on top of each Guide methods and others, as well reading the written guides for additional tips. - These will be 95% more up-to-date than your usual youtube search *"blablabla for free"*
 

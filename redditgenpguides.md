@@ -1,4 +1,4 @@
-***Updated: 08-August-2023***
+***Updated: 17-August-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -694,7 +694,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &amp;nbsp;
 
-&gt; Let it download. *(if says "Seeding only", its done)*
+&gt; Let it download. *(once it says "Seeding", it's been downloaded)*
 
 &amp;nbsp;
 

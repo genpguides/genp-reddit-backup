@@ -25,41 +25,41 @@ Acrobat `V2023` (Crack using Acropolis)
 
 Aero `V0.18.4`
 
-After Effects `V23.5`
+After Effects `V23.6`
 
 Animate `V23.0.2`
 
-Audition `V23.5.0`
+Audition `V23.6`
 
 Bridge `V13.0.2 `
 
-Camera Raw `V15.4.1`
+Camera Raw `V15.5`
 
-Character Animator `V23.2.0`
+Character Animator `V23.6`
 
-Dimension `V3.4.7`
+Dimension `V3.4.10`
 
 Dreamweaver `V21.3`
 
 Fresco `V4.7.1`
 
-Illustrator `V27.7.0`
+Illustrator `V27.8.1`
 
-InCopy `V18.5.0`
+InCopy `V18.5`
 
-InDesign `V18.5.0`
+InDesign `V18.5`
 
-Media Encoder `V23.5.0`
+Media Encoder `V23.6`
 
-Photoshop `V24.7.0` (Follow the guide for blocking .exe in the firewall)
+Photoshop `V24.7` (Follow the guide for blocking .exe in the firewall)
 
 Photoshop Express `V3.9.0`
 
 Prelude `V22.1.1`
 
-Premiere Pro `V23.5.0`
+Premiere Pro `V23.6`
 
-Premiere Rush `V2.9.0`
+Premiere Rush `V2.9`
 
 Substance 3D Designer `V12.4.0`
 
@@ -69,7 +69,7 @@ Substance 3D Painter `V9.0.0`
 
 Substance 3D Sampler `V4.1.2`
 
-Substance 3D Stager `V2.1.0`
+Substance 3D Stager `V2.1.1`
 
 #
 
@@ -78,14 +78,14 @@ Substance 3D Stager `V2.1.0`
 
 &gt;- All beta apps should work correctly.
 
-&gt;- Last updated: 2023-07-28
+&gt;- Last updated: 2023-08-15
 
 &gt;- Cracked on Creative Cloud `V5.11.0.522`
 
 &gt;- If you're having issues updating apps, turn off "credit-card fix" through CCStopper.
 
 GenP `V3.0`
-CCStopper `V1.2.2.1`
+CCStopper `V1.2.3 H1`
 Windows 11 `23H2`
 
 
