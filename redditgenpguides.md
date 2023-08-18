@@ -812,7 +812,7 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 &amp;nbsp;
 
-# 📑 **Guide #10 - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
+# 📑 **Guide #10 OUTDATED - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
 
 - Thanks u/Verix- , from GenP Discord.
 
