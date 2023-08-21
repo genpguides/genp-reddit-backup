@@ -4,6 +4,8 @@ https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp
 
 # ⚠️ PLEASE READ AND PAY ATTENTION TO THE RESPECTIVE GUIDES INSTRUCTIONS IN THIS SUBREDDIT. IT'S ALL THERE!
 
+[You can access all tips \/ guides \/ files through this top bar on New Reddit Style form.](https://preview.redd.it/m9teh0cfngjb1.png?width=1168&amp;format=png&amp;auto=webp&amp;s=dd10e278507fa712eb237507907f9304200eec52)
+
 # Tips for new people:
 
 &gt;**ALWAYS HAVE AN EXTERNAL BACK-UP OF ALL YOUR FILES** *- This is the most important rule.*  

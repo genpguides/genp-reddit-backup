@@ -1,4 +1,4 @@
-***Updated: 18-August-2023***
+***Updated: 21-August-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
 
@@ -44,6 +44,8 @@
 
 &gt; *We simply try to extend your experimental phase a little longer than the usual, before you are professionally and financially capable of going the traditional route.*
 
+&gt; *If you think something is wrong or needs improvement, please send a message to the mods, the more specific the better!*
+
 &amp;nbsp;
 
 ---
@@ -52,7 +54,7 @@
 
 # ⭐ **DOWNLOAD DIRECTORY**
 
-**CC + Genp related**
+**CC + Genp - (scroll to guide #2)**
 
 &gt;🔗 **[Creative Cloud CLEANER TOOL][10]**
 
@@ -68,7 +70,7 @@
 
 &gt;🔗 **[Acropolis][34]**
 
-**Monkrus related**
+**Monkrus - (scroll to guide #7)**
 
 &gt;🔗 **[qbittorrent][17]**
 
@@ -84,7 +86,7 @@
 
 &gt;🔗 **[Monkrus Individual - Media Encoder][31]**
 
-&gt;&gt; *Must be compatible with same version of Premiere / After Effects*
+&gt;&gt; *Must be compatible with the same version of Premiere / After Effects*
 
 &gt;🔗 **[Monkrus Individual - After Effects][21]**
 
@@ -106,7 +108,7 @@
 
 &gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]**
 
-&gt;&gt; **Both versions must match**
+&gt;&gt; **Must be compatible with the same version of Premiere**
 
 &gt;&gt; *read description of Speech-to-Text in the forum, tells which premiere version it got extracted from*
 

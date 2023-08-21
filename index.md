@@ -30,7 +30,7 @@
 
 &gt; **Mac:** Go to [r/AdobeZii](https://www.reddit.com/r/AdobeZii) or use [Cmacked](https://cmacked.com/)
 
-&gt; Linux, AtlasOS or any other OS.
+&gt; Linux, AtlasOS or any other OS will not be supported / cause conflict due to missing services.
 
 ### **Regarding plugins, addon's or MacOS**
 
