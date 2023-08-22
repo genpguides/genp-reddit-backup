@@ -738,7 +738,7 @@ This is for Adobe 2020, but may work with other installs.
 
 **For Photoshop**
 
-All you have to do is rename these 5 exe-files.
+All you have to do is rename these 4 exe-files.
 
 &gt; 1. `C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe`
 
@@ -747,8 +747,6 @@ All you have to do is rename these 5 exe-files.
 &gt; 3. `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe`
 
 &gt; 4. `C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\CCLibrary.exe`
-
-&gt; 5. `C:\Program Files\Adobe\Adobe Photoshop 2021\LogTransport2.exe`
 
 
 --&gt; Just add another letter after the ".exe". 
@@ -763,7 +761,7 @@ For example: "CoreSync.exe"--&gt;"CoreSync.exeW"
 
 All you have to do is rename these exe-file.
 
-&gt; 1. `C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe`
+&gt; 1. `C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe`
 
 --&gt; Just add another letter after the ".exe". 
 
