@@ -1,18 +1,30 @@
 ***Updated: XX-XX-2023***
 
 [1]: 
-[2]: 
-[3]:
- 
+&gt;🔗 **[xxx][1]**
+
+---
+
+# **ANATOMY OF A LIGHTSABER**
+
+So you bought your first lightsaber and don't know what is what. Don't know what's the safest way to charge your saber. Have this weird plug that the seller included but you don't know what to do with. Or even how to insert and secure the blade.
+
+This is a short guide to the anatomy of a saber.
+
 &amp;nbsp;
 
 ---
 
 &amp;nbsp;
 
+
 #⚔️ **TYPES OF SABERS**
 
 ###➜ **Baselit/in-hilt**
+
+![](%%LATriCree%%)
+
+![](%%LAECOBaselit%%)
 
 **Sabers have high power LEDs in the saber itself and shine the light into a hollow blade.**
 
@@ -32,6 +44,8 @@ Depending on the price you can have two variations:
 
 ###➜ **Neopixel**
 
+![](%%LANeopixelPCB%%)
+
 **Sabers power a string of LEDs in the blade for animated effects.**
 
 If you look in your blade holder and see gold pins and sometimes some mini LED chips, you have a Neopixel saber. These pins power the LED strips in the Neopixel blade. Those mini LEDs are enough to light up a blade plug and provide some light in the saber when a blade isn't inserted. But it's not enough to light up a full hollow blade.
@@ -42,11 +56,15 @@ If you look in your blade holder and see gold pins and sometimes some mini LED c
 
 ### **Baselit Blade**
 
+![](%%LAHollowBlade%%)
+
 If your blade is hollow with a clear film inside you have a hollow in-hilt/baselit blade. The high powered LEDs from your in-hilt/baselit saber shine into this blade and the clear diffusion film/cellophane/transparent gift wrap helps diffuse the light so it's able to travel further up the blade before losing brightness.
 
 &amp;nbsp;
 
 ### **Neopixel Blade**
+
+![](%%LANeopixelBladePCB%%)
 
 If your blade has a flat circuit board at the bottom with 3 concentric rings, then you have a Neopixel blade. This circuit board touches the pins in the emitter of your Neopixel saber to transfer power and data to control the LED strips in the Neopixel blade.
 
@@ -110,7 +128,13 @@ For the most part, yes! Blades of the same diameter **(1" or 7/8")** are cross c
 
 &amp;nbsp;
 
-#🔋 **SABER CHARGING**
+#🔋 **SABER CHARGING &amp; BATTERY**
+
+### **Type of Battery**
+
+**18650 3.7V Rechargeable battery** 3000mAh* (some may have higher/lower mAh)
+
+&amp;nbsp;
 
 ### **How to charge it?**
 
@@ -122,17 +146,23 @@ There are three variants:
 
 &gt; **No charging port**
 
+![](%%LAUSBCRecharge%%)
+
 For the first two (USB-C and Round), the seller probably included a "charging cable" with your saber. This cable does not limit the charging input into your saber and plugging it into the wrong outlet can fry the saber electronics, becoming a light-less showpiece only.
 
 **The best recommended charging block would be one that limits the output to 5 Volts &amp; 1 Amp charging current. 4.2V and 0.5A is ideal for longevity of the battery**
 
 You can also plug it into your computer's USB port as it usually outputs 5V and 0.5A, but double check to make sure before you fry your saber.
 
+![](%%LARemovableBattery%%)
+
 Finally, some custom installed sabers don't have a charge port. That's a good thing. Instead you would **remove the battery and charge it in an external charger** which has a limited output or is smart enough to limit the charging output
 
 &amp;nbsp;
 
 ### **Best way to charge?**
+
+![](%%LAExternalCharger%%)
 
 The best way to charge your saber is to remove the battery and drop it into an external lithium-ion charger. Make sure that its output is limited to **5V and 1A (4.2V &amp; 0.5A is ideal for longevity of the battery)**. Some more expensive chargers would have more battery slots and even detect what the optimal charging output is for the batteries.
 
@@ -142,31 +172,21 @@ The best way to charge your saber is to remove the battery and drop it into an e
 
 If you remove your battery always make sure to insert it in the **correct orientation** or you risk frying your saber. Warranties are usually void if you do this.
 
+![](%%LABatteryOrientation%%)
+
 **Some sabers will mark which side is the positive side and which side is the negative, pay attention to this and make sure it goes in the right way.**
 
 &amp;nbsp;
 
 #🧿 **SABER PLUGS**
 
+![](%%LABladePlug%%)
+
 That? Well that's a "blade plug". When you don't have a blade inserted you can insert the blade plug instead to block off the RGB LEDs so you don't stare straight into it and hurt your eyes.
 
 For a Neopixel saber these still serve the same purpose to a lesser degree. But they still look pretty cool if your Neopixel emitter has built-in LEDs.
 
-&amp;nbsp;
-
----
-
-&amp;nbsp;
-
-# ⭐ **DOWNLOAD DIRECTORY**
-
-**CC + Genp - (scroll to guide #2)**
-
-&gt;🔗 **[xxx][11]**
-
-&amp;nbsp;
-
-###➜ **For updates**
+![](%%LABladePlugInserted%%)
 
 &amp;nbsp;
 
@@ -174,6 +194,6 @@ For a Neopixel saber these still serve the same purpose to a lesser degree. But 
 
 &amp;nbsp;
 
-#🐒 **Monkrus Individual / Collection** *(Simplest, but not "Safest" to an extent)*
+# 🏠 ❮ Return to [r/lightsabers](https://www.reddit.com/r/lightsabers/)
 
-###❔ **What does it do?**
+# 📖 ❮ Return to [Wiki](https://www.reddit.com/r/lightsabers/wiki/index/)
