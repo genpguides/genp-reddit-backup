@@ -1,6 +1,6 @@
 [1]: https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.1F921_guide_.232_-_dummy_guide_for_first_timers_genp_.28cc_.2B_genp.29
 [2]: https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.1F412_guide_.237_-_monkrus_individual_.2F_collection_.28easiest_method.29
-[3]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
+[3]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
 ---
 

@@ -1,6 +1,6 @@
-***Updated: 21-August-2023***
+***Updated: 28-August-2023***
 
-[5]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
+[5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
 [8]: https://www.reddit.com/r/GenP/comments/mt9m4f/adobe_home_screen_fix_402
 

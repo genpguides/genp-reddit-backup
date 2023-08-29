@@ -1,7 +1,7 @@
 [1]: https://www.reddit.com/r/GenP/wiki/rules/
 [2]: https://www.reddit.com/r/GenP/wiki/patchmethods
 [3]: https://www.reddit.com/r/GenP/wiki/redditgenpguides
-[4]: https://www.reddit.com/r/GenP/comments/yao439/update_compatibility_list_2023_creative_suite/
+[4]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 [5]: https://www.reddit.com/r/GenP/wiki/faq
 
 [6]: https://www.reddit.com/r/GenP/comments/qpcnob/friendly_reminder_to_new_folks
