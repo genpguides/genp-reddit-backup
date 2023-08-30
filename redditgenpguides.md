@@ -1,4 +1,4 @@
-***Updated: 28-August-2023***
+***Updated: 30-August-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -283,6 +283,8 @@ Once that is done, you can select (Q) to quit CCStopper.
 &amp;nbsp;
 
 &gt; **How to add the same rules to firewall manually.**
+
+&gt; [Video example on Windows Firewall](https://youtu.be/kheDH6BUXWM)
 
 &gt; Go to `Windows Firewall &gt; Advanced Settings`
 

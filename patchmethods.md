@@ -18,7 +18,7 @@
 
 ###❔**What does it do?**
 
-&gt; Uses the official Adobe installer to download the all of your selected programs *(using the trials option)*, once installed you then patch those with GenP, which replaces some of the file settings to make the program think that its activated during an undetermined amount of time, in other words "forever".
+&gt; Uses the official Adobe installer (Creative Cloud) to download the all of your selected programs *(using the trials option)*, once installed you then patch those with GenP, which replaces some of the file settings to make the program think that its activated during an undetermined amount of time, in other words "forever".
 
 &gt;&gt; **It is only the latest versions only, there is no roll-back to older versions**
 
@@ -70,7 +70,7 @@
 
 &gt; It's similar to the previous method, but with all the work already done for you. It's a modified installer made by a Russian Re-Packer code-named "Monkrus", **a well regarded and trusted so far by the community**.
 
-&gt; Uses a re-pack of the official adobe programs, already pre-patched, and requires **no account signed in to work (offline use)**.
+&gt; Uses a re-pack of the official adobe programs, already pre-patched, and requires **no Creative Cloud or any account signed in to work (offline use)**.
 
 &gt; Its as simple as downloading and installing like any other type of software.
 
