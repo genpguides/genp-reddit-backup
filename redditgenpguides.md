@@ -30,7 +30,7 @@
 [31]: https://w14.monkrus.ws/search?q=Adobe+Media+Encoder&amp;max-results=20&amp;by-date=true
 [32]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
 [33]: https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file
-[34]: https://www.mediafire.com/file/re7hbvq8bbxmep1/Acropolis_V1.6.zip/file
+[34]: https://www.mediafire.com/file/5ioc2xixk2c9vp2/Acropolis_V1.9.zip/file
 
 &amp;nbsp;
 
@@ -820,19 +820,19 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 &amp;nbsp;
 
-# 📑 **Guide #10 OUTDATED - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
+# 📑 **Guide #10 - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
 
 - Thanks u/Verix- , from GenP Discord.
 
 **DOWNLOADS NEEDED**
 
-&gt;🔗 **[Acropolis][34]**
+&gt;🔗 **[Acropolis V1.9][34]**
 
 &amp;nbsp;
 
 ⚠️ **ATTENTION**
 
-&gt; * Supports Acrobat Pro | Version 23.003.20201) | 64-bit
+&gt; * Supports Acrobat Pro | Version 23.006.20320) | 64-bit
 
 &gt; * This method may be outdated after the next Acrobat update, so it is recommended to visit the Discord server for the latest information.
 
