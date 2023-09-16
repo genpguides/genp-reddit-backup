@@ -1,4 +1,4 @@
-***Updated: 30-August-2023***
+***Updated: 15-September-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -330,15 +330,9 @@ Once that is done, you can select (Q) to quit CCStopper.
 
 &gt; Install all the apps you want in one go but don't open them yet. Wait until everything is installed, don't rush.
 
-✨ **For Generative Fill PS** *(temporary)*
+✨ **For Generative Fill PS** *(NO LONGER POSSIBLE)*
 
-* Account must be set as higher than 18 years old
-
-&gt; Only working for now in Beta version of Photoshop
-
-In CC go on `Apps &gt; Categories &gt; Beta Apps &gt; Photoshop Beta`
-
-Be aware: This is BETA and requires access to servers, so we're not going through the trouble of trying to figure out to make it work.
+&gt; It's been adapted into the monthly credits for verified paying users. Therefore, gone like the wind.
 
 ![](%%Guide2-11-min%%)
 
