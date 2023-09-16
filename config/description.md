@@ -1,1 +1,1 @@
-☠️ Community that discusses GenP, other applications and methods for Windows, inclusive several Adobe products.
+☠️ Community that discusses GenP used to modify Windows Creative Apps and more. If you're using a Mac, r/AdobeZii is your best friend.
