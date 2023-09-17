@@ -832,7 +832,7 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 &gt; * It was created and tested as a standalone version, but should also work with Creative Cloud/GenP/Monkrus installed.
 
-&gt; * Before starting, make sure there is no Adobe Acrobat Pro DC installed on your computer.
+&gt; * Before starting, make sure there is no Adobe Acrobat Pro DC (or leftovers) installed on your computer.
 
 &gt; * Don't use GenP to patch this version of Acrobat!
 
