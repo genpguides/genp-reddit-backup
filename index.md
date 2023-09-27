@@ -32,6 +32,8 @@
 
 &gt; Linux, AtlasOS or any other OS will not be supported / cause conflict due to missing services.
 
+&amp;nbsp;
+
 ### **Regarding plugins, addon's or MacOS**
 
 Check **r/Piracy:** They might have options worth exploring (we don't offer support to it, so stop asking for it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _software category_.
