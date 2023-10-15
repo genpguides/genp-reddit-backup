@@ -18,7 +18,7 @@ https://preview.redd.it/37ejpvagnh3b1.png?width=660&amp;format=png&amp;auto=webp
 
 **Drink a cup of coffee or an energy drink and pay attention to all the information, folder locations and steps!**
 
-**⚠️ GENERATIVE FILL (AI) is behind a paywall / credits, forget about it and stop asking about it. - Posts on the subject will be deleted.**
+**⚠️ GENERATIVE FILL (AI) is behind a paywall / credits, forget about it and stop asking about it, in other words IT NO LONGER WORKS. - Posts on the subject will be deleted.**
 
 # Having a brain, attention to detail and some cognitive thinking is required.
 
