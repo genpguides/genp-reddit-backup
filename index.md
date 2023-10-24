@@ -40,6 +40,10 @@ Check **r/Piracy:** They might have options worth exploring (we don't offer supp
 
 &amp;nbsp;
 
+⚠️ **GENERATIVE FILL (AI) is behind a paywall / credits, forget about it and stop asking about it, in other words that specific feature NO LONGER WORKS. - Posts on the subject will be deleted.**
+
+&amp;nbsp;
+
 ---
 
 &amp;nbsp;
