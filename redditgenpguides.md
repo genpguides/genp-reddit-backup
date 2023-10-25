@@ -1,4 +1,4 @@
-***Updated: 17-October-2023***
+***Updated: 25-October-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -170,9 +170,9 @@
 
 # 🤡 **Guide #2 - Dummy Guide for First Timers GenP (CC + GenP)**
 
-&gt; **~~[Video Tutorial: Guide #2 - CC+GenP](https://odysee.com/@genp/guide2)~~ - Video outdated due to new versions of Genp, CCstopper and others**
+&gt; **~~[OUTDATED Video Tutorial:](https://odysee.com/@genp/guide2)~~**
 
-&gt; **[Current Video Tutorial October 2023: Updated Guide #2 - CC+GenP](https://youtu.be/hy2G5tCm-Co) - Thanks to the user upload for the straightforward video, hope it helps others**
+&gt; **[CURRENT UPDATED Video Tutorial October 2023:](https://youtu.be/EdO29DuUBHo) - Thanks to the user upload for the straightforward video, hope it helps others**
 
 **DOWNLOADS NEEDED**
 
@@ -183,6 +183,8 @@
 &gt;🔗 **[CCStopper][9]**
 
 &amp;nbsp;
+
+🛑**Attention: Written Guide #2 in not necessarily up-to-date, please follow the directions from the current Video Tutorial linked above. Thanks.**🛑
 
 ⚠️ **Attention: [If you are having "Unlicensed popups | App will be disabled | Not loading or looping CC"](https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/)**
 
