@@ -1,4 +1,4 @@
-***Updated: 25-October-2023***
+***Updated: 02-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -602,7 +602,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &amp;nbsp;
 
-# 🐒 **Guide #7 - Monkrus Individual / Collection (Easiest Method)**
+# 🐒 **Guide #7 - Monkrus Individual (Easiest Method)**
 
 * **[Video Tutorial: Monkrus Individual / Collection Install](https://odysee.com/adobe-master-collection-free:c)**
 
@@ -654,19 +654,21 @@ This is for Adobe 2020, but may work with other installs.
 
 &amp;nbsp;
 
-&gt; ⚠️ **DO NOT RUN GENP ON MONKRUS**
+**Few details to pay attention to**
 
-&gt; If **switching completely** from CC+GenP to Monkrus, please run **GUIDE 4** to **clean everything**, as you want a clean slate to avoid problems with leftover files from the other method.
+&gt; ⚠️ **Monkrus Collection isn't recommended** - This has been mentioned for months but now its final. If you use it, get sketchy behavior or virus its your problem.
+
+&gt; ⚠️ **DO NOT RUN GENP ON MONKRUS** - If **switching completely** from CC+GenP to Monkrus, please run **GUIDE 4** to **clean everything**, as you want a clean slate to avoid problems with leftover files from the other method.
 
 &amp;nbsp;
 
-**Instructions to Install Monkrus Individual / Collection:**
+**Instructions to Install Monkrus Individual:**
 
 **1. Download and Install the [Torrent Software - qbittorrent][17]**
 
 &amp;nbsp;
 
-**2. Choose which one you want: Monkrus Collection OR Individual App of choice from the Download links**
+**2. Choose app of choice from Monkrus Individual on Download links above**
 
 &gt; ⚠️ AntiVirus may have blacklisted the site causing it to not "load / could not reach url", if you disabled AV should load normally.
 
@@ -704,7 +706,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt; For individual: Proceed with the install setup.
 
-&gt; For collection: Select the apps you want to install (you don't need all).
+&gt; ~~For collection: Select the apps you want to install (you don't need all).~~
 
 ⚠️ **Attention - Majority apps should work without any account signed in (cloud-based might need)**
 

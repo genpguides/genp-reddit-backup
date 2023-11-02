@@ -1,5 +1,5 @@
 [1]: https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.1F921_guide_.232_-_dummy_guide_for_first_timers_genp_.28cc_.2B_genp.29
-[2]: https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.1F412_guide_.237_-_monkrus_individual_.2F_collection_.28easiest_method.29
+[2]: https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.1F412_guide_.237_-_monkrus_individual_.28easiest_method.29
 [3]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
 ---
@@ -96,7 +96,7 @@
 
 &gt; ❗ **The links in the reddit and suggestions are to the source, and not other random file hosts.**
 
-&gt; If going with Monkrus, please use only the **Individual versions** (these should alright) and NEVER the collection.
+&gt; If going with Monkrus, please use only the **Individual versions** (these should alright) and **NEVER** the collection.
 
 &amp;nbsp;
 
@@ -104,13 +104,13 @@
 
 **2 Ways:**
 
-&gt; 1. Individual apps (~2-5GB, dependent on the app) **Recommended**
+1. Individual apps (~2-5GB, dependent on the app) **Recommended**
 
 &gt;&gt; *Can install as many as you want and you can use the pre-searched links available to help find them, otherwise but you must look for them specifically by yourself*
 
-&gt; 2. Whole Adobe Collection (~22GB)
+~~2. Whole Adobe Collection (~22GB)~~
 
-&gt;&gt; *One-Installer-Package with the whole programs, which you can choose after to install either one, two, or several programs at once.*
+&gt;&gt; ~~*One-Installer-Package with the whole programs, which you can choose after to install either one, two, or several programs at once.*~~
 
 🔗 **[Guide #7 - Monkrus][2]**
 
@@ -122,7 +122,7 @@
 
 &gt; Individual apps, whenever a new version is available in the site, download it, install on top of the old one.
 
-&gt; M0nkrus Collection, you can only update when they release a new Collection Version. (And to update you just download the new collection, install on top of the old files)
+&gt; ~~M0nkrus Collection, you can only update when they release a new Collection Version. (And to update you just download the new collection, install on top of the old files)~~
 
 &gt; Sometimes, it can happen that you remain with 2 versions installed at the same time, if such happens just uninstall the old version after installing the new one and keep the preferences if asked.
 
