@@ -96,7 +96,7 @@
 
 &gt; ❗ **The links in the reddit and suggestions are to the source, and not other random file hosts.**
 
-&gt; If going with Monkrus, please use only the **Individual versions** (these should alright) and **NEVER** the collection.
+⚠️ If going with Monkrus, please USE ONLY THE **INDIVIDUAL VERSIONS** (these should alright) and **NEVER the Collection version** (has been dropped due to several correlations with malware). - This has been said several times, but majority skips on the reading, so it's your problem going foward.
 
 &amp;nbsp;
 

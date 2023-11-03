@@ -1,4 +1,4 @@
-***Updated: 02-November-2023***
+***Updated: 03-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -30,7 +30,7 @@
 [31]: https://w14.monkrus.ws/search?q=Adobe+Media+Encoder&amp;max-results=20&amp;by-date=true
 [32]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
 [33]: https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file
-[34]: https://www.mediafire.com/file/5ioc2xixk2c9vp2/Acropolis_V1.9.zip/file
+[34]: https://www.mediafire.com/file/ppdtzb3elfzw987/Acropolis_V1.10.zip/file
 
 &amp;nbsp;
 
@@ -112,7 +112,7 @@
 
 &gt;&gt; *read description of Speech-to-Text in the forum, tells which premiere version it got extracted from*
 
-&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~
+&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~ *Specifically dropped due to malware concerns*
 
 &amp;nbsp;
 
@@ -650,13 +650,11 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions - "extracted from ... version"*
 
-&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~
-
 &amp;nbsp;
 
 **Few details to pay attention to**
 
-&gt; ⚠️ **Monkrus Collection isn't recommended** - This has been mentioned for months but now its final. If you use it, get sketchy behavior or virus its your problem.
+&gt; ⚠️ **Monkrus Collection is dropped due to malware concerns** - This has been mentioned for months but now its final. If you use it, its your problem.
 
 &gt; ⚠️ **DO NOT RUN GENP ON MONKRUS** - If **switching completely** from CC+GenP to Monkrus, please run **GUIDE 4** to **clean everything**, as you want a clean slate to avoid problems with leftover files from the other method.
 
@@ -820,19 +818,19 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 &amp;nbsp;
 
-# 📑 **Guide #10 (OUTDATED) - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
+# 📑 **Guide #10 - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
 
 - Thanks u/Verix- , from GenP Discord.
 
 **DOWNLOADS NEEDED**
 
-&gt;🔗 **[Acropolis V1.9][34]**
+&gt;🔗 **[Acropolis V1.10][34]**
 
 &amp;nbsp;
 
 ⚠️ **ATTENTION**
 
-&gt; * Supports Acrobat Pro | Version 23.006.20320) | 64-bit
+&gt; * Supports Acrobat Pro | Version 2023.006.20360) | 64-bit
 
 &gt; * This method may be outdated after the next Acrobat update, so it is recommended to visit the Discord server for the latest information.
 
