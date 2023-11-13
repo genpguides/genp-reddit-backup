@@ -8,6 +8,7 @@
 [7]: https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/
 [8]: https://genpguides.github.io/
 [9]: https://github.com/genpguides/genp-reddit-backup
+[10]: https://www.reddit.com/r/Piracy/wiki/megathread/unsafe-sites/
 
 
 ---
@@ -161,6 +162,12 @@ Others may not be up-to-date, so don't used them for now
 * [Github.com - Genp][9]
 
 [***WHERE IS EVERYTHING ON r/GenP LOCATED - VISUALLY?***](https://imgur.com/a/OMVqu70)
+
+&amp;nbsp;
+
+#☣️ ➜ **[Unsafe Sites][10]**
+
+- List of unsafe sites from Piracy Subreddit
 
 &amp;nbsp;
 
