@@ -229,11 +229,13 @@ Click Windows Button and write "Windows Powershell" right-click, Run as Administ
 
 **Copy-Paste the following codeblocks to Powershell and hit ENTER after each one:**
 
-&gt; `Stop-Process -Name "Adobe Desktop Service" -force`
+```Stop-Process -Name "Adobe Desktop Service" -force```
+
+&amp;nbsp;
 
 **Then enter the following command to create a backup of your current Apps Panel:**
 
-&gt; ```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak"```
+```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak"```
 
 &amp;nbsp;
 
@@ -279,7 +281,7 @@ If the console prints no errors, **restart your machine**. Upon startup, Creativ
 
 If you receive an error stating that the file is being used by another process, then Creative Cloud is still partially running. Enter
 
-&gt; ```Stop-Process -Name "Adobe Desktop Service" -force```
+```Stop-Process -Name "Adobe Desktop Service" -force```
 
 &gt; then re-enter the same code block from before again
 
@@ -289,17 +291,19 @@ If you receive an error stating that the file is being used by another process, 
 
 **Use the following two commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.**
 
-&gt; ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force```
+```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force```
 
-&gt; ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
+```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
 
 &amp;nbsp;
 
-If you prefer to do this manually, you can add the following two lines to the system hosts file (located in C:\Windows\System32\drivers\etc) using a text editor of your choice:
+If you prefer to do this manually, you can add the following two lines to the system hosts file (located in `C:\Windows\System32\drivers\etc)` using a text editor of your choice:
 
-&gt; ```0.0.0.0 m59b4msyph.adobe.io```
+```# BLOCK AD0BE (current as of 08/11/2023) #```
 
-&gt; ```0.0.0.0 ic.adobe.io```
+```0.0.0.0 m59b4msyph.adobe.io```
+
+```0.0.0.0 ic.adobe.io```
 
 &amp;nbsp;
 
