@@ -1,4 +1,4 @@
-***Updated: 08-November-2023***
+***Updated: 14-November-2023***
 
 \------------------------------------------------------------------------------------------------------------------
 
@@ -27,6 +27,12 @@
 *(for genp method mainly / possibly useful on monkrus as last resort)*
 
 Use the following two commands in **PowerShell (admin)** if your apps are warning you of unlicensed or non-genuine usage:
+
+First run:
+
+    Stop-Process -Name "Adobe Desktop Service" -force
+
+Then
 
     Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force
     

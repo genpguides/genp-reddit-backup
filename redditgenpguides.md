@@ -1,4 +1,4 @@
-***Updated: 09-November-2023***
+***Updated: 14-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -14,7 +14,6 @@
 
 [17]: https://www.qbittorrent.org/download.php
 [18]: https://w14.monkrus.ws/search?q=Adobe+Photoshop&amp;max-results=20&amp;by-date=true
-[35]: https://w14.monkrus.ws/search?q=firefly&amp;max-results=20&amp;by-date=true
 [19]: https://w14.monkrus.ws/search?q=Adobe+Illustrator&amp;max-results=20&amp;by-date=true
 [20]: https://w14.monkrus.ws/search?q=Adobe+Premiere+Pro&amp;max-results=20&amp;by-date=true
 [21]: https://w14.monkrus.ws/search?q=Adobe+After+Effects&amp;max-results=20&amp;by-date=true
@@ -31,6 +30,9 @@
 [32]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
 [33]: https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file
 [34]: https://www.mediafire.com/file/ppdtzb3elfzw987/Acropolis_V1.10.zip/file
+[35]: https://w14.monkrus.ws/search?q=firefly&amp;max-results=20&amp;by-date=true
+[36]: https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/
+
 
 &amp;nbsp;
 
@@ -182,15 +184,9 @@
 
 &amp;nbsp;
 
-🛑**Attention: Written Guide #2 in not necessarily up-to-date, please follow the directions from the current Video Tutorial linked above. Thanks.**🛑
-
-⚠️ **Attention: [If you are having "Unlicensed popups | App will be disabled | Not loading or looping CC"](https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/)**
-
-&amp;nbsp;
-
 **Instructions to CC + Genp** *picture guides only visible in desktop*
 
-**1. Download Genp 3 - Modded, CCStopper, and extract ALL contents from zip**
+**1. Download Genp 3 - Modded and extract ALL contents from zip**
 
 &gt; Antivirus may sometimes delete or move files into quarantine.
 
@@ -206,9 +202,17 @@
 
 &gt; During setup, *if possible* do **NOT install AGS** (Adobe Genuine Service)
 
-&gt; **Disable Auto-Update** on it's settings *if possible*.
+&amp;nbsp;
 
-&gt; Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`
+Once installed go to `Menu &gt; File &gt; Preferences` and **disable the following:**
+
+&gt; Launch at login
+
+&gt; Sync files in the background after quitting
+
+&gt; Automatically keep it updated
+
+Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`
 
 ![](%%Guide2-2-min%%)
 ![](%%Guide2-3-min%%)
@@ -217,150 +221,127 @@
 
 &amp;nbsp;
 
-**3. Replace Try with Install buttons using the Modded Utilities.**
+**3. Replace Try with Install buttons using Windows Powershell as ADMIN**
 
-&gt; Go to the **default** folder for adobe in your file Explorer:
-
-&gt; `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel`
+Click Windows Button and write "Windows Powershell" right-click, Run as Administrator.
 
 &amp;nbsp;
 
-&gt; Create a folder inside it named "BACKUP" and move the following files *(If you have them)* to it:
+**Copy-Paste the following codeblocks to Powershell and hit ENTER after each one:**
 
-&gt; **AppsPanel.pimx, AppsPanelBL.dll and AppsPanellL.dll**
+&gt; `Stop-Process -Name "Adobe Desktop Service" -force`
 
-&gt; *(in case you want to restore them to default at a later date)*
+**Then enter the following command to create a backup of your current Apps Panel:**
 
-&amp;nbsp;
-
-&gt; Go to `Genp 3 - Modded &gt; Utilities &gt; restore install buttons [beta]`, there will be another 2 "AppsPanel" files. You will copy these into the default AppsPanel folder (NOT THE BACKUP ONE).
-
-![](%%Guide2-7-min%%)
+&gt; ```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak"```
 
 &amp;nbsp;
 
-**4. Use CCStopper to block ADS via Firewall (blocking internet)**
+**After creating a backup with the above command, apply the Apps Panel patch by pasting the entirety of the following code block into PowerShell:**
 
-**Run CCstopper as admin.** - You should be shown a menu with the following options which you must hit using the keyboard.
+- *Due to formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste it into powershell. - Sorry for the extra work*
 
-&gt; (2) for Internet Patch
+```$bytes  = [System.IO.File]::ReadAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll")```
 
-&gt;&gt; (1) for Firewall Block.
+```$bytes[1116554] = 0xfe```
 
-Once that is done, you can select (Q) to quit CCStopper.
+```$bytes[1216383] = 0xfe```
 
-![](%%Guide2-9-min%%)
-![](%%Guide2-10-min%%)
+```$bytes[1987439] = 0xfe```
 
-&amp;nbsp;
+```$bytes[2150557] = 0xfe```
 
-❗ **PAY ATTENTION** - Firewall Rules should be in effect, therefore they won't let Creative Cloud load or Update *(this is intentional)*.
+```$bytes[2151982] = 0xfe```
 
-⚠️ If antivirus is managing firewall settings, then you must create them in your antivirus firewall settings instead and not on windows *(whichever it is must be ON for the rules to take effect)* .
+```$bytes[2152497] = 0xfe```
 
-&amp;nbsp;
+```$bytes[2153297] = 0xfe```
 
-💡 **Turn `Windows Firewall OFF`, then open Creative Cloud and wait for it to load, once its loaded then turn `Windows Firewall ON`**
+```$bytes[2279801] = 0xc6```
 
-**Repeat this process everytime you need to download other apps but get server error**
+```$bytes[2279802] = 0x40```
 
-&amp;nbsp;
+```$bytes[2279811] = 0xc6```
 
-**(If you do not care for the explanation of it, you may Skip to Step 5)**
+```$bytes[2279812] = 0x40```
 
-&amp;nbsp;
+```$bytes[2279821] = 0xc6```
 
-ℹ️ **Informational purpose only of step 4**
+```$bytes[2279822] = 0x40```
 
-&gt; *Explanation of what CCstopper does automatically with the use of the firewall rule*
+```[System.IO.File]::WriteAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll", $bytes)```
 
-&gt; Basically you are allowing internet access to Creative Cloud to load properly and blocking it again, by disabling and enabling the firewall rules.
+![](%%PowerShell-Confirm%%)
 
-&gt; Later you can disable, enable or delete them depending on your needs.
-
-&gt; * OUTBOUND: Stops information from leaving PC to the Server, helps bypass Credit Card prompt.
-
-&gt; * INBOUND: Stops information coming from Server to PC, helps bypass the trial countdown or app will be disabled prompt.
+If the console prints no errors, **restart your machine**. Upon startup, Creative Cloud will be ready for use.
 
 &amp;nbsp;
 
-&gt; **How to add the same rules to firewall manually.**
+If you receive an error stating that the file is being used by another process, then Creative Cloud is still partially running. Enter
 
-&gt; [Video example on Windows Firewall](https://youtu.be/kheDH6BUXWM)
+&gt; ```Stop-Process -Name "Adobe Desktop Service" -force```
 
-&gt; Go to `Windows Firewall &gt; Advanced Settings`
+&gt; then re-enter the same code block from before again
 
-&gt; Create **Outbound** rules on the following:
-
-&gt; **Path of ADS** - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe`
-
-&gt; **Path of Licensing** - `C:\ProgramFiles\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf.exe`
-
-&gt; **Path of Licensing helper** - `C:\ProgramFiles\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf_helper.exe`
+![](%%PowerShell-errors%%)
 
 &amp;nbsp;
 
-&gt; **How to create it:**
+**Use the following two commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.**
 
-&gt; * **Rule type:** Program
+&gt; ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force```
 
-&gt; * **Program:** (Paste the directory above and select the application.exe)
-
-&gt; * **Action:** Block the connection
-
-&gt; * **Profile:** All
-
-&gt; * **Name:** (Choose a name that you will remember what it does)
+&gt; ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
 
 &amp;nbsp;
 
-&gt; * The ADS rule is what causes Creative Cloud to take longer to load, not load at all or constantly loop, but its necessary to get in the app without triggering the CreditCard popup.
+If you prefer to do this manually, you can add the following two lines to the system hosts file (located in C:\Windows\System32\drivers\etc) using a text editor of your choice:
 
-**Just remember that**
+&gt; ```0.0.0.0 m59b4msyph.adobe.io```
 
-- Disabled: CreativeCloud works like normaly, but you cant download due to CreditCard popup.
-
-- Enabled: The opposite happens, free to download but its stubborn a bit.
-
-**END of Informational purpose only of step 4**
+&gt; ```0.0.0.0 ic.adobe.io```
 
 &amp;nbsp;
 
-**5. Install Apps you want (Trial and Error)**
+**4. Open Creative Cloud &gt; Apps &gt; Install**
 
-&gt; If the buttons didn't get replaced with install, click on Try nonetheless and see if it starts downloading.
+&gt; You should now have the install button, install all the apps you want, wait until everything is installed and DON'T OPEN ANY YET.
 
-&gt; Install all the apps you want in one go but don't open them yet. Wait until everything is installed, don't rush.
+✨ **Generative Fill / AI online features on PS or others DO NOT WORK ANYMORE - stop asking about it**
 
-✨ **For Generative Fill PS** *(NO LONGER POSSIBLE)*
+&gt; It's been adapted into the monthly credits for verified paying users (paywall). Therefore, its gone.
 
-&gt; It's been adapted into the monthly credits for verified paying users. Therefore, gone like the wind.
+**Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`**
 
 ![](%%Guide2-11-min%%)
 
 &amp;nbsp;
 
-**6. Run GenP on the installed apps**
+**5. Run GenP on the installed apps**
 
 &gt; Open `GenP folder &gt; Resources &gt; Run GenP file`
 
-&gt; If you're having issues opening it, turn AntiVirus OFF and try again, however **don't forget to turn it back ON before selecting Try or Download**.
+&gt; If you're having issues opening it, turn AntiVirus OFF and try again, however **don't forget to turn it back ON after its patched**.
 
 &gt; Click **"Search Files"** and wait. *(will look at the default locations, use custom path if installed somewhere else)*
 
-&gt; You can de-select paths in case you have any versions you dont want to patch. (in case of using Monkrus Acrobat)
+&gt; You can de-select paths in case you have any programs you dont want to patch. (in case of using Monkrus Acrobat)
 
 &gt; Finally click the **PILL** to run the patch.
 
-**Everything should be working now**
-
-**OPEN THE APPS THROUGH THE .EXE and NOT FROM CC**
-
 ![](%%Guide2-14-min%%)
+
+**Everything should be working now**
 
 &amp;nbsp;
 
-➜ **Optional - Block Each Installed app via Firewall**
+**OPEN THE APPS THROUGH THEIR .EXE and NOT FROM Creative Cloud;**
+
+&gt; Meaning Windows button, write name of app you wanna use that was patched &gt; Open
+
+&amp;nbsp;
+
+➜ **Optional, therefore ignore - Block Each Installed app via Firewall**
 
 *(Case of issues like app will be disabled, day counter, unable to launch app due to some popup)*
 
@@ -374,11 +355,23 @@ Once that is done, you can select (Q) to quit CCStopper.
 
 &amp;nbsp;
 
-➜ **Optional - Block AGS via Firewall** - *(similar to step 4)*
+➜ **Optional, therefore ignore - Block AGS via Firewall** - *(similar to step 4)*
 
 &gt; Create both **Inbound** and **Outbound** rules on **Adobe Genuine Service**
 
 Path of AGS - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AdobeGenuineClient\AGSService.exe`
+
+&amp;nbsp;
+
+**To Restore AppsPannel**
+
+To restore from the previously made backup, use the following command:
+
+&gt; ```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll"```
+
+If no errors are printed to the console, restart your machine. Upon startup, Creative Cloud will be returned to normal functionality—
+
+![](%%PowerShell-Restore%%)
 
 &amp;nbsp;
 
@@ -387,6 +380,8 @@ Path of AGS - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\Ad
 &gt; Always check first the monthly **[Compatibility List][5]** before updating any apps, otherwise don't update.
 
 &gt; If you want to install / update more apps, hit "**Install/Update**" on New app, let it download, and **run GenP** on them again.
+
+&gt; If something ain't working properly check **[Issues Fix][36]**
 
 &amp;nbsp;
 
