@@ -1,4 +1,4 @@
-***Updated: 14-November-2023***
+***Updated: 15-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -347,15 +347,25 @@ If you prefer to do this manually, you can add the following two lines to the sy
 
 ➜ **Optional, therefore ignore - Block Each Installed app via Firewall**
 
-*(Case of issues like app will be disabled, day counter, unable to launch app due to some popup)*
+*(In case of issues like app will be disabled, day counter, unable to launch app due to some popup)*
 
 &gt; Go to `Windows Firewall &gt; Advanced Settings`
 
 &gt; Create **Inbound and Outbound** rule on each app with issues
 
-**Typical path example would be:** `C:\Program Files\Adobe\Adobe Photoshop 2022\Photoshop.exe`
+**Structure is the following:**
 
-&gt; Find the proper path for the one you need.
+&gt; File Type: Program
+
+&gt; Program: It's necessary to select the actual "program".exe inside the folder that was installed because the shortcut will not work.
+
+&gt;&gt; **Typical path example would be:** `C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe` (Find the proper path for the app you need)
+
+&gt; Action: Block Connection
+
+&gt; Profile: All
+
+&gt;&gt; Name: Name it whatever you want to know what's blocking.
 
 &amp;nbsp;
 
