@@ -1,4 +1,4 @@
-***Updated: 15-November-2023***
+***Updated: 16-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -58,8 +58,6 @@
 
 **CC + Genp - (scroll to guide #2)**
 
-&gt;🔗 **[Creative Cloud CLEANER TOOL][10]**
-
 &gt;🔗 **[Creative Cloud (CC)][11]**
 
 &gt;🔗 **[GenP 2.7 - Old][12]**
@@ -72,6 +70,12 @@
 
 &gt;🔗 **[Acropolis][34]**
 
+**NOTHING IS WORKING / FULL CLEANING - (scroll to guide #4)**
+
+&gt;🔗 **[Creative Cloud CLEANER TOOL][10]**
+
+&gt;🔗 **[Revo Uninstaller (Optional)][13]**
+
 **Monkrus - (scroll to guide #7)**
 
 &gt;🔗 **[qbittorrent][17]**
@@ -80,7 +84,7 @@
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
-&gt;🔗 **[Monkrus Individual - Firefly AI Support][35]**
+&gt;🔗 ~~**[Monkrus Individual - Firefly AI Support][35]**~~
 
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
@@ -184,6 +188,12 @@
 
 &amp;nbsp;
 
+&gt; ⛔ **Generative Fill or AI online features DO NOT WORK ANYMORE - stop asking about it**
+
+&gt; Without a valid subscription or active trial (7 days) you can forget about it. It's been adapted into the monthly credits  service for valid subscription users (pay-wall). Therefore, its gone.
+
+&amp;nbsp;
+
 **Instructions to CC + Genp** *picture guides only visible in desktop*
 
 **1. Download Genp 3 - Modded and extract ALL contents from zip**
@@ -227,7 +237,7 @@ Click Windows Button and write "Windows Powershell" right-click, Run as Administ
 
 &amp;nbsp;
 
-**Copy-Paste the following codeblocks to Powershell and hit ENTER after each one:**
+**Copy-Paste (CTRL+C / CTRL+V) the following codeblocks to Powershell and hit ENTER after each one:**
 
 ```Stop-Process -Name "Adobe Desktop Service" -force```
 
@@ -241,7 +251,7 @@ Click Windows Button and write "Windows Powershell" right-click, Run as Administ
 
 **After creating a backup with the above command, apply the Apps Panel patch by pasting the entirety of the following code block into PowerShell:**
 
-- *Due to formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste it into powershell. - Sorry for the extra work*
+- *Due to formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste (CTRL+C / CTRL+V) it into powershell. - Sorry for the extra work*
 
 ```$bytes  = [System.IO.File]::ReadAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll")```
 
@@ -283,7 +293,7 @@ If you receive an error stating that the file is being used by another process, 
 
 ```Stop-Process -Name "Adobe Desktop Service" -force```
 
-&gt; then re-enter the same code block from before again
+&gt; then re-enter the same code block from before again. It must not show errors.
 
 ![](%%PowerShell-errors%%)
 
@@ -310,10 +320,6 @@ If you prefer to do this manually, you can add the following two lines to the sy
 **4. Open Creative Cloud &gt; Apps &gt; Install**
 
 &gt; You should now have the install button, install all the apps you want, wait until everything is installed and DON'T OPEN ANY YET.
-
-✨ **Generative Fill / AI online features on PS or others DO NOT WORK ANYMORE - stop asking about it**
-
-&gt; It's been adapted into the monthly credits for verified paying users (paywall). Therefore, its gone.
 
 **Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`**
 
@@ -413,7 +419,7 @@ If no errors are printed to the console, restart your machine. Upon startup, Cre
 
 Another option (but not covered below)
 
-&gt;🔗 **[RevoUninstaller][13]**
+&gt;🔗 **[Revo Uninstaller (Optional)][13]**
 
 &amp;nbsp;
 
@@ -625,8 +631,6 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
-&gt;🔗 **[Monkrus Individual - Firefly AI Support][35]**
-
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
 &gt;🔗 **[Monkrus Individual - Premiere Pro][20]**
@@ -664,6 +668,10 @@ This is for Adobe 2020, but may work with other installs.
 &gt; ⚠️ **Monkrus Collection is dropped due to malware concerns** - This has been mentioned for months but now its final. If you use it, its your problem.
 
 &gt; ⚠️ **DO NOT RUN GENP ON MONKRUS** - If **switching completely** from CC+GenP to Monkrus, please run **GUIDE 4** to **clean everything**, as you want a clean slate to avoid problems with leftover files from the other method.
+
+&gt; ⛔ **Generative Fill or AI online features DO NOT WORK ANYMORE - stop asking about it**
+
+&gt; Without a valid subscription or active trial (7 days) you can forget about it. It's been adapted into the monthly credits  service for valid subscription users (pay-wall). Therefore, its gone.
 
 &amp;nbsp;
 
