@@ -29,7 +29,7 @@
 [31]: https://w14.monkrus.ws/search?q=Adobe+Media+Encoder&amp;max-results=20&amp;by-date=true
 [32]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
 [33]: https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file
-[34]: https://www.mediafire.com/file/ppdtzb3elfzw987/Acropolis_V1.10.zip/file
+[34]: https://www.mediafire.com/file/yfwou9x68env5hi/Acropolis_V1.11.zip/file
 [35]: https://w14.monkrus.ws/search?q=firefly&amp;max-results=20&amp;by-date=true
 [36]: https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/
 
@@ -839,13 +839,13 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 **DOWNLOADS NEEDED**
 
-&gt;🔗 **[Acropolis V1.10][34]**
+&gt;🔗 **[Acropolis V1.11][34]**
 
 &amp;nbsp;
 
 ⚠️ **ATTENTION**
 
-&gt; * Supports Acrobat Pro | Version 2023.006.20360) | 64-bit
+&gt; * Supports Acrobat Pro | Version 2023.006.20380) | 64-bit
 
 &gt; * This method may be outdated after the next Acrobat update, so it is recommended to visit the Discord server for the latest information.
 
