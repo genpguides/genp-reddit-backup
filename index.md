@@ -41,7 +41,9 @@ Check **r/Piracy:** They might have options worth exploring (we don't offer supp
 
 &amp;nbsp;
 
-⚠️ **GENERATIVE FILL (AI) is behind a paywall / credits, forget about it and stop asking about it, in other words that specific feature NO LONGER WORKS. - Posts on the subject will be deleted.**
+&gt; **⛔ Generative Fill or (AI) online features DO NOT WORK ANYMORE - stop asking about it**
+
+&gt; Without a valid subscription or active trial (7 days) you can forget about it. It's been adapted into the monthly credits service for valid subscription users (pay-wall). Therefore, its gone. **- Posts on the subject will be deleted.**
 
 &amp;nbsp;
 

@@ -1,4 +1,4 @@
-***Updated: 26-November-2023***
+***Updated: 27-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -56,6 +56,8 @@
 
 # ⭐ **DOWNLOAD DIRECTORY**
 
+*Any link or text ~~Strikethrough~~ is no longer needed due to outdated or dropped for security reasons*
+
 **CC + Genp - (scroll to guide #2)**
 
 &gt;🔗 **[Creative Cloud (CC)][11]**
@@ -66,7 +68,7 @@
 
 &gt;🔗 **[GenP 3.0 - Modded][33]**
 
-&gt;🔗 **[CCStopper][9]**
+&gt;🔗 ~~**[CCStopper][9]**~~
 
 &gt;🔗 **[Acropolis][34]**
 
