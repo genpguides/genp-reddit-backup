@@ -1,4 +1,4 @@
-***Updated: 14-November-2023***
+***Updated: 26-November-2023***
 
 \------------------------------------------------------------------------------------------------------------------
 
@@ -34,9 +34,11 @@ First run:
 
 Then
 
+    Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force
+    
     Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force
     
-    Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force
+    Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`t7g2gzgk9g1.adobe.io" -Force
 
 Basically it will edit the Host file located in:
 
@@ -48,9 +50,10 @@ Basically it will edit the Host file located in:
 
 If you prefer to do this manually, you can add the following two lines to the system hosts file, using a text editor of your choice. - Then just save the file and reboot your system.
 
-    # BLOCK AD0BE (current as of 08/11/2023) #
-    0.0.0.0 m59b4msyph.adobe.io
+    # BLOCK AD0BE (current as of 26/11/2023) #
     0.0.0.0 ic.adobe.io
+    0.0.0.0 m59b4msyph.adobe.io
+    0.0.0.0 7g2gzgk9g1.adobe.io
 
 # ---------------------
 

@@ -1,4 +1,4 @@
-***Updated: 16-November-2023***
+***Updated: 26-November-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -301,19 +301,23 @@ If you receive an error stating that the file is being used by another process, 
 
 **Use the following two commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.**
 
+```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
+
 ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force```
 
-```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
+```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`t7g2gzgk9g1.adobe.io" -Force```
 
 &amp;nbsp;
 
 If you prefer to do this manually, you can add the following two lines to the system hosts file (located in `C:\Windows\System32\drivers\etc)` using a text editor of your choice:
 
-```# BLOCK AD0BE (current as of 08/11/2023) #```
+```# BLOCK AD0BE (current as of 26/11/2023) #```
+
+```0.0.0.0 ic.adobe.io```
 
 ```0.0.0.0 m59b4msyph.adobe.io```
 
-```0.0.0.0 ic.adobe.io```
+```0.0.0.0 7g2gzgk9g1.adobe.io```
 
 &amp;nbsp;
 
