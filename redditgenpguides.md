@@ -1,4 +1,4 @@
-***Updated: 27-November-2023***
+***Updated: 1-December-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -224,7 +224,7 @@ Once installed go to `Menu &gt; File &gt; Preferences` and **disable the followi
 
 &gt; Automatically keep it updated
 
-Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`
+**Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`**
 
 ![](%%Guide2-2-min%%)
 ![](%%Guide2-3-min%%)
@@ -239,7 +239,7 @@ Click Windows Button and write "Windows Powershell" right-click, Run as Administ
 
 &amp;nbsp;
 
-**Copy-Paste (CTRL+C / CTRL+V) the following codeblocks to Powershell and hit ENTER after each one:**
+**Copy-Paste (CTRL+C / CTRL+V) the following into Powershell to stop CC processes and hit ENTER after each one:**
 
 ```Stop-Process -Name "Adobe Desktop Service" -force```
 
@@ -251,9 +251,9 @@ Click Windows Button and write "Windows Powershell" right-click, Run as Administ
 
 &amp;nbsp;
 
-**After creating a backup with the above command, apply the Apps Panel patch by pasting the entirety of the following code block into PowerShell:**
+**After creating a backup with the above command, apply the Apps Panel patch by pasting the entirety of the following codeblock into PowerShell (it must not show errors):**
 
-- *Due to formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste (CTRL+C / CTRL+V) it into powershell. - Sorry for the extra work*
+- *Be aware due to reddit formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste (CTRL+C / CTRL+V) it into powershell. - Sorry for the extra work*
 
 ```$bytes  = [System.IO.File]::ReadAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll")```
 
@@ -295,13 +295,13 @@ If you receive an error stating that the file is being used by another process, 
 
 ```Stop-Process -Name "Adobe Desktop Service" -force```
 
-&gt; then re-enter the same code block from before again. It must not show errors.
+&gt; then re-enter the same Big codeblock from before again. It must not show errors.
 
 ![](%%PowerShell-errors%%)
 
 &amp;nbsp;
 
-**Use the following two commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.**
+**Use the following commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.** - add one at a time.
 
 ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
 
@@ -347,13 +347,13 @@ If you prefer to do this manually, you can add the following two lines to the sy
 
 ![](%%Guide2-14-min%%)
 
-**Everything should be working now**
-
 &amp;nbsp;
 
 **OPEN THE APPS THROUGH THEIR .EXE and NOT FROM Creative Cloud;**
 
 &gt; Meaning Windows button, write name of app you wanna use that was patched &gt; Open
+
+**Everything should be working now! End of Guide.**
 
 &amp;nbsp;
 
@@ -386,6 +386,18 @@ If you prefer to do this manually, you can add the following two lines to the sy
 &gt; Create both **Inbound** and **Outbound** rules on **Adobe Genuine Service**
 
 Path of AGS - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AdobeGenuineClient\AGSService.exe`
+
+&amp;nbsp;
+
+**How to Uninstall AGS - Adobe Genuine Service**
+
+Open PowerShell, as admin, and enter:
+
+```[System.Diagnostics.Process]::Start("C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AdobeCleanUpUtility.exe")```
+
+and follow the on-screen instructions.
+
+If that directory is absent then the service won’t be installed. 
 
 &amp;nbsp;
 
