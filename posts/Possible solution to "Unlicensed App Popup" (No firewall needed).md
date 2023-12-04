@@ -1,4 +1,4 @@
-***Updated: 26-November-2023***
+***Updated: 04-December-2023***
 
 \------------------------------------------------------------------------------------------------------------------
 
@@ -10,9 +10,7 @@
 
 &amp;#x200B;
 
-❗ **𝗣𝗘𝗢𝗣𝗟𝗘 𝗥𝗘𝗔𝗗 𝗧𝗛𝗜𝗦 𝗣𝗟𝗘𝗔𝗦𝗘, 𝗔𝗡𝗗 𝗦𝗧𝗢𝗣 𝗔𝗦𝗞𝗜𝗡𝗚 𝗧𝗛𝗜𝗦 𝗦𝗛\_𝗧 𝗢𝗩𝗘𝗥 𝗔𝗡𝗗 𝗢𝗩𝗘𝗥 𝗔𝗚𝗔𝗜𝗡 ❗**
-
-🔖 **This page has been a bit left out for a while which may have caused confusion among several people. For the moment this will be updated with just the bare minimum until we figure out a better way to help about. Apologies 🥹**
+❗ **𝗣𝗘𝗢𝗣𝗟𝗘 𝗥𝗘𝗔𝗗 𝗧𝗛𝗜𝗦 𝗣𝗟𝗘𝗔𝗦𝗘, 𝗔𝗡𝗗 𝗦𝗧𝗢𝗣 𝗔𝗦𝗞𝗜𝗡𝗚 𝗧𝗛𝗜𝗦 𝗢𝗩𝗘𝗥 𝗔𝗡𝗗 𝗢𝗩𝗘𝗥 𝗔𝗚𝗔𝗜𝗡 ❗**
 
 ⚠️ If your windows firewall is being managed by your antivirus *(should say "firewall is being managed by third-party" or something similar)* **then all the changes below must be applied in said Antivirus firewall** *(that's on you to figure out all of them have different menus and places, however the paths to block are the same)* **- Also whichever is "the boss" it must remain ON.**
 
