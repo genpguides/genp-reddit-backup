@@ -1,4 +1,4 @@
-***Updated: 1-December-2023***
+***Updated: 6-December-2023***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
 
@@ -62,7 +62,7 @@
 
 &gt;🔗 **[Creative Cloud (CC)][11]**
 
-&gt;🔗 **[GenP 2.7 - Old][12]**
+&gt;🔗 ~~**[GenP 2.7 - Old][12]**~~
 
 &gt;🔗 **[GenP 3.0 - Standard][32]**
 
@@ -301,7 +301,7 @@ If you receive an error stating that the file is being used by another process, 
 
 &amp;nbsp;
 
-**Use the following commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.** - add one at a time.
+**Use the following commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.** - add one line at a time, and press ENTER after each one.
 
 ```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
 
@@ -311,7 +311,7 @@ If you receive an error stating that the file is being used by another process, 
 
 &amp;nbsp;
 
-If you prefer to do this manually, you can add the following two lines to the system hosts file (located in `C:\Windows\System32\drivers\etc)` using a text editor of your choice:
+If you prefer to do this manually, you can add the following lines to the system hosts file (located in `C:\Windows\System32\drivers\etc)` using a text editor of your choice:
 
 ```# BLOCK AD0BE (current as of 26/11/2023) #```
 
