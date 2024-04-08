@@ -20,7 +20,7 @@ def get_wiki_pages_names():
     # headers = {'User-Agent': 'Mozilla/5.0'}
     response = ''
     for i in range(5):
-        response = requests.get(url, headers=headers)
+        response = requests.get(url)
         if response.status_code == 200:
             json_response = json.loads(response.content.decode('utf-8'))
             return json_response['data']
