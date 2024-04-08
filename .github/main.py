@@ -17,14 +17,17 @@ def create_file(content, file_path):
 # Downloading Functions
 def get_wiki_pages_names():
     url = 'https://www.reddit.com/r/genp/wiki/pages.json'
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        json_response = json.loads(response.content.decode('utf-8'))
-        return json_response['data']
-    else:
-        print(f"Found no page on the wiki using url: {url}. Got Error {response.status_code}. Possibly the subreddit does not exist.")
-        return None
+    # headers = {'User-Agent': 'Mozilla/5.0'}
+    response = ''
+    for i in range(5):
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            json_response = json.loads(response.content.decode('utf-8'))
+            return json_response['data']
+        print(f"For url {url}. Got response code: {response.status_code} and text {response.text}. Attempt #{i+1}.")
+        time.sleep(1)
+    print(f"Found no page on the wiki using url: {url}. Got Error {response.status_code}. Possibly the subreddit does not exist.")
+    return None
 
 
 def get_wiki_page_content():
