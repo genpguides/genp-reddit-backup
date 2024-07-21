@@ -101,6 +101,8 @@ def get_wiki_page_content():
 def save_wiki():
     wiki_page_content = get_wiki_page_content()
     base_location = ''
+    if not wiki_page_content:
+        return 
     for page_name in wiki_page_content:
         page_location = base_location + page_name + '.md'
         create_file(wiki_page_content[page_name], page_location)
