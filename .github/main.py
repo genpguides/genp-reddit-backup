@@ -32,32 +32,13 @@ def save_to_wayback(url):
 
 def get_wayback_content(url):
     # Strip 'https://www.' from the beginning of the URL if present
-    stripped_url = url.replace('https://www.', '')
-
     # Construct the Wayback Machine API URL
-    api_url = f'https://archive.org/wayback/available?url={stripped_url}'
-
+    api_url = f'https://web.archive.org/web/{url}'
     try:
         # Make the initial request to the Wayback Machine API
         print(f"Getting Content from {api_url}")
         response = requests.get(api_url)
-        response.raise_for_status()  # Raise an exception for bad status codes
-        data = response.json()
-        print(f"Received response {response.text}")
-        # Extract the closest snapshot URL
-        closest_snapshot = data.get('archived_snapshots', {}).get('closest', {})
-        if closest_snapshot.get('available'):
-            snapshot_url = closest_snapshot['url']
-            # Modify the timestamp in the URL
-            parts = snapshot_url.split('/')
-            timestamp_index = parts.index('web') + 1
-            parts[timestamp_index] = parts[timestamp_index] + 'if_'
-            modified_url = '/'.join(parts)
-            print(f"Modified URL: {modified_url}")
-            # Make the final request to get the content
-            final_response = requests.get(modified_url)
-            print(f"Content: {final_response.content}")
-            return final_response
+        return response
     except:
         # Return None if any error occurred or if the content couldn't be retrieved
         return None
