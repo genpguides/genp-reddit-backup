@@ -2,6 +2,7 @@ import requests
 import json
 from pathlib import Path
 import time
+import urllib.parse
 
 # Helper functions
 def create_file(content, file_path):
@@ -16,7 +17,7 @@ def create_file(content, file_path):
 def save_to_wayback(url):
     wayback_url = f'https://web.archive.org/save/{url}'
     data = {
-        'url': url,
+        'url': urllib.parse.quote_plus(url),
         'capture_all': 'on'
     }
     
