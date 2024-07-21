@@ -45,6 +45,7 @@ def get_wayback_content(url):
         return None
 
 def get_response(url):
+    print(f"Saving {url}")
     save_to_wayback(url)
     print("Sleeping")
     time.sleep(3)
@@ -115,6 +116,6 @@ def save_posts():
         else:
             print(f"Got Error {response.status_code} while downloading {url}.")
 
-
+print("Starting Program")
 save_wiki()
 save_posts()
