@@ -45,6 +45,7 @@ def get_wayback_content(url):
 
 def get_response(url):
     save_to_wayback(url)
+    print("Sleeping")
     time.sleep(3)
     return get_wayback_content(url)
     
