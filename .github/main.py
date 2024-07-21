@@ -13,20 +13,71 @@ def create_file(content, file_path):
     with open(str(file_path), 'w') as f:
         f.write(content)
 
+def save_to_wayback(url):
+    wayback_url = f'https://web.archive.org/save/{url}'
+    data = {
+        'url': url,
+        'capture_all': 'on'
+    }
+    
+    headers = {
+        'Content-Type': 'application/x-www-form-urlencoded'
+    }
+    
+    response = requests.post(wayback_url, data=data, headers=headers)
+    print(f"Sending request to: {wayback_url}")
+    print(f"Received Response: {response.status_code} {response.text}")
+    return response.status_code, response.text
 
+
+def get_wayback_content(url):
+    # Strip 'https://www.' from the beginning of the URL if present
+    stripped_url = url.replace('https://www.', '')
+
+    # Construct the Wayback Machine API URL
+    api_url = f'https://archive.org/wayback/available?url={stripped_url}'
+
+    try:
+        # Make the initial request to the Wayback Machine API
+        print(f"Getting Content from {api_url}")
+        response = requests.get(api_url)
+        response.raise_for_status()  # Raise an exception for bad status codes
+        data = response.json()
+        print(f"Received response {response.text}")
+        # Extract the closest snapshot URL
+        closest_snapshot = data.get('archived_snapshots', {}).get('closest', {})
+        if closest_snapshot.get('available'):
+            snapshot_url = closest_snapshot['url']
+            # Modify the timestamp in the URL
+            parts = snapshot_url.split('/')
+            timestamp_index = parts.index('web') + 1
+            parts[timestamp_index] = parts[timestamp_index] + 'if_'
+            modified_url = '/'.join(parts)
+            print(f"Modified URL: {modified_url}")
+            # Make the final request to get the content
+            final_response = requests.get(modified_url)
+            print(f"Content: {final_response.content}")
+            return final_response
+    except:
+        # Return None if any error occurred or if the content couldn't be retrieved
+        return None
+
+def get_response(url):
+    save_to_wayback(url)
+    time.sleep(3)
+    return get_wayback_content(url)
+    
 # Downloading Functions
 def get_wiki_pages_names():
     url = 'https://www.reddit.com/r/genp/wiki/pages.json'
     # headers = {'User-Agent': 'Mozilla/5.0'}
-    response = ''
-    for i in range(5):
-        response = requests.get(url)
-        if response.status_code == 200:
-            json_response = json.loads(response.content.decode('utf-8'))
-            return json_response['data']
-        print(f"For url {url}. Got response code: {response.status_code} and text {response.text}. Attempt #{i+1}.")
-        time.sleep(1)
-    print(f"Found no page on the wiki using url: {url}. Got Error {response.status_code}. Possibly the subreddit does not exist.")
+    response = get_response(url)
+    if response is None:
+        return
+    if response.status_code == 200:
+        json_response = json.loads(response.content.decode('utf-8'))
+        return json_response['data']
+    print(f"Found no page on the wiki using url: {url}. Possibly the subreddit does not exist.")
     return None
 
 
@@ -40,12 +91,10 @@ def get_wiki_page_content():
         if page_name not in ignored_pages:
             url = base_url + page_name + '.json'
             print("Getting Data for: " + page_name, "URL: " + url)
-            response = requests.get(url, headers=headers)
+            response = get_response(url)
             if response.status_code == 200:
                 json_response = json.loads(response.content)
                 wiki_page_content[page_name] = json_response['data']['content_md']
-            else:
-                wiki_page_content[page_name] = None
     return wiki_page_content
 
 
@@ -70,7 +119,9 @@ def save_posts():
         json_urls.append(url + '.json')
     headers = {'User-Agent': 'Mozilla/5.0'}
     for url in json_urls:
-        response = requests.get(url, headers=headers)
+        response = get_response(url)
+        if response is None:
+            continue
         if response.status_code == 200:
             json_response = json.loads(response.content)
             post_title = json_response[0]['data']['children'][0]['data']['title']
