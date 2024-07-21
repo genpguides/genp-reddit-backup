@@ -73,12 +73,11 @@ def get_wiki_pages_names():
     # headers = {'User-Agent': 'Mozilla/5.0'}
     response = get_response(url)
     if response is None:
-        return
+        return []
     if response.status_code == 200:
         json_response = json.loads(response.content.decode('utf-8'))
         return json_response['data']
     print(f"Found no page on the wiki using url: {url}. Possibly the subreddit does not exist.")
-    return None
 
 
 def get_wiki_page_content():
