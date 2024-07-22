@@ -24,11 +24,14 @@ def save_to_wayback(url):
     headers = {
         'Content-Type': 'application/x-www-form-urlencoded'
     }
-    
-    response = requests.post(wayback_url, data=data, headers=headers)
-    print(f"Sending request to: {wayback_url}")
-    print(f"Received Response: {response.status_code} {response.text[:100]}")
-    return response.status_code, response.text
+    try:
+        response = requests.post(wayback_url, data=data, headers=headers)
+        print(f"Sending request to: {wayback_url}")
+        print(f"Received Response: {response.status_code} {response.text[:100]}")
+        return response.status_code, response.text
+    except:
+        print(f"Some error occurred while saving {url}")
+        return None        
 
 
 def get_wayback_content(url):
