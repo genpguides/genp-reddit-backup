@@ -78,6 +78,8 @@ def get_wiki_page_content():
             url = base_url + page_name + '.json'
             print("Getting Data for: " + page_name, "URL: " + url)
             response = get_response(url)
+            if response is None:
+                continue
             if response.status_code == 200:
                 json_response = json.loads(response.content)
                 wiki_page_content[page_name] = json_response['data']['content_md']
