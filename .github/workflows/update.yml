@@ -5,8 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */8 * * *'
+  schedule:
+    - cron: '0 */8 * * *'
 
 jobs:
   update:
@@ -46,7 +46,7 @@ jobs:
       - name: Commit the changes
         run: |
           git add .
-          git commit -m '♻️ update page'
+          git commit -m '♻️ Last Updated on $(date +'%d-%m-%Y')'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.OSLASH_BOT_GITHUB_TOKEN }}
