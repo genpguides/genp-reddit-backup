@@ -1,1 +1,1 @@
-☠️We're a community that discusses GenP, a tool which is used to alter apps on Windows. If you're using a Mac, r/AdobeZii is your best friend.
+We're a community that discusses GenP, our tool which is used to modify apps on Windows 10 and 11. If you're using macOS, r/AdobeZii can help you. ☠️

@@ -10,34 +10,47 @@
 [9]: https://github.com/genpguides/genp-reddit-backup
 [10]: https://www.reddit.com/r/Piracy/wiki/megathread/unsafe-sites/
 
-
 ---
 
 ![](%%GenPBanner%%)
 
 #☠️ ➜ Welcome to the **WIKI**
 
-&gt; From here you will be able find all the useful information for your journey!
+&gt; From here, you will be able to find all the useful information for your journey!
+
+Beforehand, a long overdue brief...
+
+GenP was initially developed by uncia. Around the beginning of 2023, uncia announced their retirement from the scene in private forums but **released their last version, GenP 3.0.3 (known in Reddit as GenP 3.0)**, along with the source code. Due to this, a transition of responsibility to others capable of maintaining updates began to happen...
+
+For obvious reasons, this has been kept from being shared thinking in the program's longevity since this could mean it would be patched much faster due to the nature of easy sharing in Reddit vs hard-to-get in private forums...
+
+- *And no, the source code won't be shared because of what was stated above.*
+
+At the same time, this caused various versions to appear, some working, some not, and others straight malware, none of which was truly from the original Creator *[as per an old announcement made](https://www.reddit.com/r/GenP/comments/1513xj7/important_announcement/)*.
+
+Therefore, current versions and future versions are the efforts of individuals or groups who want to keep the program alive and safe for as long as possible. While there might be other versions around, we only support the one developed here (in case other collaborations happen for the greater good, we will be transparent about it).
 
 &amp;nbsp;
 
-### **Supported OS's**
-
-&gt; **Windows:** Both GenP &amp; M0nkrus
+---
 
 &amp;nbsp;
 
-### **NOT Supported OS's**
+# **SYSTEM COMPATIBILITY - PC** #
 
-&gt; **Mac:** Go to [r/AdobeZii](https://www.reddit.com/r/AdobeZii) or use [Cmacked](https://cmacked.com/)
+### **GenP &amp; M0nkrus only work on Windows 10 and 11.** ###
 
-&gt; Linux, AtlasOS or any other OS will not be supported / cause conflict due to missing services.
+### **We do not support macOS, Linux or modified Windows versions.**
+
+&gt; **macOS:** Go to [r/AdobeZii](https://www.reddit.com/r/AdobeZii) or use [Cmacked](https://cmacked.com/)
+
+&gt; **Linux:** Ubuntu, Kali, Arch or any other Unix-based OS is not supported.
 
 &amp;nbsp;
 
-### **Regarding plugins, addon's or MacOS**
+### **Regarding plugins, addon's or macOS**
 
-Check **r/Piracy:** They might have options worth exploring (we don't offer support to it, so stop asking for it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _software category_.
+Check **r/Piracy:** They might have options worth exploring (we don't offer support to it, so stop asking for it) [Reddit megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) or [Backup megathread](https://rentry.co/megathread) on the _**software category**_.
 
 &amp;nbsp;
 
@@ -46,11 +59,7 @@ Check **r/Piracy:** They might have options worth exploring (we don't offer supp
 
 &gt; **⛔ Generative Fill or (AI) online features DO NOT WORK ANYMORE - stop asking about it**
 
-&gt; Without a valid subscription or active trial (7 days) you can forget about it. It's been adapted into the monthly credits service for valid subscription users (pay-wall). Therefore, its gone. **- Posts on the subject will be deleted.**
-
-&amp;nbsp;
-
----
+&gt; Without a valid subscription or active trial (7 days), you can forget about it. It's been adapted into the monthly credits service for valid subscription users (pay-wall). Therefore, it's gone. **- Posts on the subject will be deleted.**
 
 &amp;nbsp;
 
@@ -72,63 +81,52 @@ Check **r/Piracy:** They might have options worth exploring (we don't offer supp
 
 &amp;nbsp;
 
----
-
-&amp;nbsp;
-
 #📝 ➜ **[Rules][1]**
 
-- All the rules for the subreddit
-
-- Legal disclaimer just in case
+- All the rules for the subreddit and legal disclaimer.
 
 &amp;nbsp;
 
 ---
 
+# **EVERYTHING YOU WILL EVER NEED IS HERE**
+
+---
+
 &amp;nbsp;
 
-#📖 ➜ **[Patching Methods][2]**
+
+#📖 ➜ **[Explanation for each Patching Methods][2]**
 
 - RECOMMENDED TO READ BEFORE DOING ANYTHING
 
-- Brief overview of what each method is, what it does, possible issues, and update related questions
+- Brief overview of what each method is, what it does, possible issues, and update related questions.
 
 &amp;nbsp;
 
----
-
-&amp;nbsp;
-
-#⭐ ➜ **[Guides][3]**
+#⭐ ➜ **[HOW-TO-GUIDES &amp; DOWNLOADS][3]**
 
 - All guides, programs and links for your adventures
 
-- Read the written guides or video tutorials if available fully for additional tips before you proceed
+- Read the written guides or video tutorials, if available, for additional tips before you proceed
 
-- Main guides are:
+- The main guides are:
 
-&gt; `#2 - CC+GenP`,
+&gt; **Method 1:** `Guide #2 - CC + GenP`
 
-&gt; `#4 - Full Clean`,
+&gt; **Method 2:** `Guide #7 - Monkrus Individual`
 
-&gt; `#7 - Monkrus Individual`,
+&gt; `Troubleshoot section` - "Unlicensed popups, App will be disabled, Not loading or looping CC"
 
-&gt; `#10 - Acropolis (acrobat)`.
-
-Others may not be up-to-date, so don't used them for now
+&gt; **Cleaning Method:** `Guide #4 - Fully Clean`
 
 - **Please use only the links and information in this subreddit alone, for your own safety and our sanity**
 
 &amp;nbsp;
 
----
-
-&amp;nbsp;
-
 #📝 ➜ **[Compatibility List][4]**
 
-- Self explanatory (not up do date, for now ignore it)
+- Self-explanatory (Pay attention to when it was last updated)
 
 &amp;nbsp;
 
@@ -142,41 +140,21 @@ Others may not be up-to-date, so don't used them for now
 
 &amp;nbsp;
 
----
-
-&amp;nbsp;
-
-#📝 ➜ **[ISSUES FIX][7]**
-
-- If you are having "Unlicensed popups | App will be disabled | Not loading or looping CC
-
-&amp;nbsp;
-
----
-
-&amp;nbsp;
-
-#🦺 ➜ **[Fall-Back backup]**
-
-*(Thanks voyager)*
-
-- In case the reddit goes down, the following links have all the information.
-
-* [Github.io - Genp][8]
-
-* [Github.com - Genp][9]
-
-[***WHERE IS EVERYTHING ON r/GenP LOCATED - VISUALLY?***](https://imgur.com/a/OMVqu70)
-
-&amp;nbsp;
-
 #☣️ ➜ **[Unsafe Sites][10]**
 
-- List of unsafe sites from Piracy Subreddit
+- List of unsafe sites from the Piracy Subreddit
 
 &amp;nbsp;
 
----
+#🦺 ➜ **[Fall-Back backup]** - *(Outdated)*
+
+*~~(Thanks voyager)~~*
+
+~~The Subreddit guides will be the most updated, however in case the reddit goes down, the following links have all the information (Last update there was November 2023).~~
+
+*~~[Github.io - Genp][8]~~
+
+*~~[Github.com - Genp][9]~~
 
 &amp;nbsp;
 

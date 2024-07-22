@@ -18,9 +18,9 @@
 
 ###❔**What does it do?**
 
-&gt; Uses the official Adobe installer (Creative Cloud) to download the all of your selected programs *(using the trials option)*, once installed you then patch those with GenP, which replaces some of the file settings to make the program think that its activated during an undetermined amount of time, in other words "forever".
+&gt; Uses the official Adobe installer (Creative Cloud) to download the all of your selected programs *(using trials option)*, once installed you then patch those with GenP, which replaces some of the file settings to make the program think that its activated during an undetermined amount of time, possibly "forever".
 
-&gt;&gt; **It is only the latest versions only, there is no roll-back to older versions**
+&gt;&gt; **It will install only the current latest versions, there's maybe possibility of roll-back option to older versions in case latest doesn't patch**
 
 &gt; This includes trials, or coming from subscription model but want to cancel and patch to keep using it - only requirement is - programs must be installed in the computer.
 
@@ -37,7 +37,6 @@
 **App Issues with GENP**
 
 * ❌ Lightroom is known to not always work
-* ❌ Acrobat does not work. (use Acropolis instead)
 * ❌ After Effects / Premiere HVEC - A1 have tendency to not work for some.
 
 &amp;nbsp;
@@ -56,7 +55,7 @@
 
 &gt; Once the update is done, close CC, open GenP and patch it again. **(new updates require repatching with GenP every time).**
 
-&gt; However new updates can break the patch, usually its best if you don't update. Please **[Check the Update Compatibility List][3].**
+&gt; However new updates can break the patch, we **RECOMMEND EXTREMELY to NOT UPDATE THE APPS IF THEY ARE WORKING in current installed version** (for yours and ours sanity). Please **[Check the Update Compatibility List][3].**
 
 &amp;nbsp;
 
@@ -64,13 +63,13 @@
 
 &amp;nbsp;
 
-#🐒 **Monkrus Individual / Collection** *(Simplest, but not "Safest" to an extent)*
+#🐒 **Monkrus Individual** *(Simplest, but not "Safest" to an extent)*
 
 ###❔ **What does it do?**
 
-&gt; It's similar to the previous method, but with all the work already done for you. It's a modified installer made by a Russian Re-Packer code-named "Monkrus", **a well regarded and trusted so far by the community**.
+&gt; It's a modified installer made by a Russian Re-Packer code-named "Monkrus", **a well regarded and trusted so far by the community**.
 
-&gt; Uses a re-pack of the official adobe programs, already pre-patched, and requires **no Creative Cloud or any account signed in to work (offline use)**.
+&gt; Uses a re-pack of the official adobe programs, already pre-patched, and requires **no Creative Cloud or any account signed in to work (offline use)** - It's similar to the previous method, but with all the work already done for you..
 
 &gt; Its as simple as downloading and installing like any other type of software.
 
@@ -78,7 +77,7 @@
 
 &gt;&gt; Most of the unnecessary services that communicate to adobe servers are severed.
 
-&gt; You could still sign-in if you wanted, but problems may arise and may brick the install, in other words, you may need to uninstall and reinstall without sign in.
+&gt; Don't sign-in, if you do problems may arise and may brick the install, in other words, you may need to uninstall and reinstall without sign in.
 
 &amp;nbsp;
 
@@ -96,7 +95,7 @@
 
 &gt; ❗ **The links in the reddit and suggestions are to the source, and not other random file hosts.**
 
-⚠️ If going with Monkrus, please USE ONLY THE **INDIVIDUAL VERSIONS** (these should alright) and **NEVER the Collection version** (has been dropped due to several correlations with malware). - This has been said several times, but majority skips on the reading, so it's your problem going foward.
+⚠️ If going with Monkrus, please USE ONLY THE **INDIVIDUAL VERSIONS** (these should be alright) and **NEVER the Collection version** (has been dropped due to several correlations with malware, and malfunctions). - This has been said several times, but the majority skips on the reading, so it's your problem going forward.
 
 &amp;nbsp;
 

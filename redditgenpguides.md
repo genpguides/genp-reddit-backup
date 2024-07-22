@@ -1,18 +1,17 @@
-***Updated: 6-December-2023***
+***Updated: 26-June-2024***
 
 [5]: https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/
-
-[8]: https://www.reddit.com/r/GenP/comments/mt9m4f/adobe_home_screen_fix_402
-
-[9]: https://github.com/eaaasun/CCStopper/releases
-[10]: https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html
-[11]: https://creativecloud.adobe.com/apps/download/creative-cloud
-[12]: https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file
-[13]: https://www.revouninstaller.com/
-
-[15]: https://w14.monkrus.ws/search?q=Adobe+Lightroom+Classic&amp;max-results=20&amp;by-date=true
-
-[17]: https://www.qbittorrent.org/download.php
+[6]: https://www.reddit.com/r/GenP/comments/mt9m4f/adobe_home_screen_fix_402
+[7]: https://github.com/eaaasun/CCStopper/releases
+[8]: xxx
+[9]: xxx
+[10]: xxx
+[12]: FullCleaningLINKS
+[13]: https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html
+[14]: https://www.revouninstaller.com/
+[15]: MonkrusIndividualLINKS
+[16]: https://www.qbittorrent.org/download.php
+[17]: https://w14.monkrus.ws/search?q=Adobe+Lightroom+Classic&amp;max-results=20&amp;by-date=true
 [18]: https://w14.monkrus.ws/search?q=Adobe+Photoshop&amp;max-results=20&amp;by-date=true
 [19]: https://w14.monkrus.ws/search?q=Adobe+Illustrator&amp;max-results=20&amp;by-date=true
 [20]: https://w14.monkrus.ws/search?q=Adobe+Premiere+Pro&amp;max-results=20&amp;by-date=true
@@ -25,14 +24,17 @@
 [27]: https://w14.monkrus.ws/search?q=Adobe+XD&amp;max-results=20&amp;by-date=true
 [28]: https://w14.monkrus.ws/search?q=Adobe+InDesign&amp;max-results=20&amp;by-date=true
 [29]: https://w14.monkrus.ws/search?q=Adobe+Speech+to+Text&amp;max-results=20&amp;by-date=true
-[30]: https://w14.monkrus.ws/search?q=Adobe+Master+Collection+2023&amp;max-results=20&amp;by-date=true
+[30]: https://w14.monkrus.ws/search?q=Adobe+Master+Collection&amp;max-results=20&amp;by-date=true
 [31]: https://w14.monkrus.ws/search?q=Adobe+Media+Encoder&amp;max-results=20&amp;by-date=true
-[32]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
-[33]: https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file
-[34]: https://www.mediafire.com/file/yfwou9x68env5hi/Acropolis_V1.11.zip/file
-[35]: https://w14.monkrus.ws/search?q=firefly&amp;max-results=20&amp;by-date=true
-[36]: https://www.reddit.com/r/GenP/comments/ue47y6/possible_solution_to_unlicensed_app_popup_no/
-
+[32]: https://w14.monkrus.ws/search?q=Firefly+AI&amp;max-results=20&amp;by-date=true
+[33]: CC+GenPLINKS
+[11]: https://creativecloud.adobe.com/apps/download/creative-cloud
+[34]: https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file
+[35]: https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file
+[36]: https://www.mediafire.com/file/xz64q94hsy71vgd/Adobe_GenP_3.4.9_%2528overall_fixes%2529.zip/file
+[37]: https://www.mediafire.com/file/200qofbd58tgc0u/Adobe_GenP_3.4.12.zip/file
+[38]: https://www.mediafire.com/file/rsdbnfi38eex4xv/Adobe_GenP_3.4.13_Beta_4.zip/file
+[39]: xxx
 
 &amp;nbsp;
 
@@ -40,13 +42,13 @@
 
 &amp;nbsp;
 
-# ❗ **EVERYTHING BELOW IS FOR WINDOWS ONLY**
+# ❗ **EVERYTHING BELOW IS FOR WINDOWS SYSTEMS ONLY**
 
-&gt; **Please read the guides completely before doing anything**
+&gt; **Please, read the guides thoroughly before taking any action, as well posting repeated questions...**
 
-&gt; *We simply try to extend your experimental phase a little longer than the usual, before you are professionally and financially capable of going the traditional route.*
+&gt; *We simply aim to prolong your experimental phase a little longer than usual so you can practice more before you are professionally and financially capable of going the traditional route.*
 
-&gt; *If you think something is wrong or needs improvement, please send a message to the mods, the more specific the better!*
+&gt; *If you find any issues or areas for improvement in the information provided or the way the guides are presented, please [message the mods](https://www.reddit.com/message/compose?to=r/GenP) with specific details or constructive criticism!*
 
 &amp;nbsp;
 
@@ -56,55 +58,51 @@
 
 # ⭐ **DOWNLOAD DIRECTORY**
 
-*Any link or text ~~Strikethrough~~ is no longer needed due to outdated or dropped for security reasons*
+*Any link or text with ~~Strikethrough~~ is either (outdated) or dropped for security reasons (malware), recommended not to use.*
 
 **CC + Genp - (scroll to guide #2)**
 
 &gt;🔗 **[Creative Cloud (CC)][11]**
 
-&gt;🔗 ~~**[GenP 2.7 - Old][12]**~~
+&gt;🔗 ~~**[GenP 2.7][34]**~~ *(Outdated)*
 
-&gt;🔗 **[GenP 3.0 - Standard][32]**
+&gt;🔗 ~~**[GenP 3.0][35]**~~ *(Outdated)*
 
-&gt;🔗 **[GenP 3.0 - Modded][33]**
+&gt;🔗 ~~**[GenP 3.4.9][36]**~~ *(Outdated)*
 
-&gt;🔗 ~~**[CCStopper][9]**~~
+&gt;🔗 ~~**[GenP 3.4.12][37]**~~ *(Outdated)*
 
-&gt;🔗 **[Acropolis][34]**
+&gt;🔗 **[GenP 3.4.13 Beta 4][38]** - Current Updated Version
 
 **NOTHING IS WORKING / FULL CLEANING - (scroll to guide #4)**
 
-&gt;🔗 **[Creative Cloud CLEANER TOOL][10]**
+&gt;🔗 **[Creative Cloud CLEANER TOOL][13]**
 
-&gt;🔗 **[Revo Uninstaller (Optional)][13]**
+&gt;🔗 **[Revo Uninstaller (Optional)][14]**
 
-**Monkrus - (scroll to guide #7)**
+**Monkrus Individual - (scroll to guide #7)**
 
-&gt;🔗 **[qbittorrent][17]**
+&gt;🔗 **[qbittorrent][16]**
 
-&gt;🔗 **[Monkrus Individual - Lightroom Classic][15]**
+&gt;🔗 **[Monkrus Individual - Lightroom Classic][17]**
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
-&gt;🔗 ~~**[Monkrus Individual - Firefly AI Support][35]**~~
+&gt;🔗 ~~**[Monkrus Individual - Firefly AI Support][32]**~~ *(Doesn't work, needs paying subscription)*
 
 &gt;🔗 **[Monkrus Individual - Illustrator][19]**
 
 &gt;🔗 **[Monkrus Individual - Premiere Pro][20]**
 
-&gt;🔗 **[Monkrus Individual - Media Encoder][31]**
-
-&gt;&gt; *Must be compatible with the same version of Premiere / After Effects*
+&gt;🔗 **[Monkrus Individual - Media Encoder][31]** *(Must match same version of Premiere / After Effects to properly work)*
 
 &gt;🔗 **[Monkrus Individual - After Effects][21]**
 
-&gt;🔗 **[Monkrus Individual - Animate][22]**
+&gt;🔗 **[Monkrus Individual - Animate][22]** *(PRO version doesn't work)*
 
-&gt;🔗 **[Monkrus Individual - Character Animator][23]**
+&gt;🔗 **[Monkrus Individual - Character Animator][23]** *(PRO version doesn't work)*
 
-&gt;🔗 **[Monkrus Individual - Acrobat PRO][24]**
-
-&gt;&gt; *Get the x64 versions only*
+&gt;🔗 **[Monkrus Individual - Acrobat PRO][24]** *(get only x64 versions only)*
 
 &gt;🔗 **[Monkrus Individual - Substance][25]**
 
@@ -114,13 +112,9 @@
 
 &gt;🔗 **[Monkrus Individual - InDesign][28]**
 
-&gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]**
+&gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]** *(Must be compatible with the same version of Premiere, read description of Speech-to-Text in the forum, it mentions the version of premiere it got extracted from*
 
-&gt;&gt; **Must be compatible with the same version of Premiere**
-
-&gt;&gt; *read description of Speech-to-Text in the forum, tells which premiere version it got extracted from*
-
-&gt;🔗 ~~**[Monkrus Collection 2023][30]** - *(All-Apps-Package 23GB)*~~ *Specifically dropped due to malware concerns*
+&gt;🔗 ~~**[Monkrus Collection][30]**~~ *(All Apps)* *(Specifically dropped due to Malware and performance concerns)*
 
 &amp;nbsp;
 
@@ -129,8 +123,6 @@
 &amp;nbsp;
 
 # ► **Guide #1 - How to whitelist files**
-
-*- Thanks Matteoki*
 
 * **On Windows Defender:**
 
@@ -176,47 +168,45 @@
 
 &amp;nbsp;
 
-# 🤡 **Guide #2 - Dummy Guide for First Timers GenP (CC + GenP)**
+# ☠️ **Guide #2 - Dummy Guide for First Timers GenP (CC + GenP)**
 
-&gt; **~~[OUTDATED Video Tutorial:](https://odysee.com/@genp/guide2)~~**
+&gt; **[No Video Tutorial for Revamp 2024 yet]**
 
-&gt; **[CURRENT UPDATED Video Tutorial October 2023:](https://youtu.be/EdO29DuUBHo) - Thanks to the user upload for the straightforward video, hope it helps others**
-
-**DOWNLOADS NEEDED**
+**DOWNLOADS / TOOLS NEEDED**
 
 &gt;🔗 **[Creative Cloud (CC)][11]**
 
-&gt;🔗 **[GenP 3.0 - Modded][33]**
+&gt;🔗 **[GenP 3.4.13 Beta 4][38]** - Current Updated Version
 
 &amp;nbsp;
 
-&gt; ⛔ **Generative Fill or AI online features DO NOT WORK ANYMORE - stop asking about it**
+&gt; ⛔ **Generative Fill or AI online features DO NOT WORK**
 
-&gt; Without a valid subscription or active trial (7 days) you can forget about it. It's been adapted into the monthly credits  service for valid subscription users (pay-wall). Therefore, its gone.
-
-&amp;nbsp;
-
-**Instructions to CC + Genp** *picture guides only visible in desktop*
-
-**1. Download Genp 3 - Modded and extract ALL contents from zip**
-
-&gt; Antivirus may sometimes delete or move files into quarantine.
-
-&gt; You can either whitelist as safe or disable antivirus while extracting. This will fix the issue of **.exe** not showing in the folder after extracted.
-
-![](%%Guide2-1-min%%)
+&gt; Without a valid subscription or valid active trial (7 days) you can forget about it. It's been adapted into the monthly credits  service for valid subscription users (pay-wall). Therefore, its gone.
 
 &amp;nbsp;
 
-**2. Download &amp; Install Creative Cloud**
-
-&gt; Create a free account or use one you already have, preferably without any ongoing subscription *(avoid problems)*
-
-&gt; During setup, *if possible* do **NOT install AGS** (Adobe Genuine Service)
+&gt; ⚠️ **Any ongoing new changes or fixes might not be immediately reflected in both the tools or the written guides (we're people and have lives too), but we will try to keep it updated ASAP.**
 
 &amp;nbsp;
 
-Once installed go to `Menu &gt; File &gt; Preferences` and **disable the following:**
+**Instructions to CC + Genp** *pictures in the guides are only visible on full desktop mode, not on mobile*
+
+&amp;nbsp;
+
+**1. Download &amp; Install Creative Cloud**
+
+&gt; You can Create a free account using your own email, using a temporary email *(search on google "temp mail" and any should work)*, or use an account you already have, preferably without any ongoing subscription *(to avoid problems)*
+
+&gt; During setup, *if shown* do **NOT install AGS** (Adobe Genuine Service), *if not shown, continue anyway*
+
+![](%%1-CC-Download-min%%)
+![](%%3-CC-Sign-in-min%%)
+![](%%4-CC-Sign-in-min%%)
+
+&amp;nbsp;
+
+Once installed go to `Menu &gt; File &gt; Preferences` and in the "General" tab **disable the following:**
 
 &gt; Launch at login
 
@@ -226,200 +216,111 @@ Once installed go to `Menu &gt; File &gt; Preferences` and **disable the followi
 
 **Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`**
 
-![](%%Guide2-2-min%%)
-![](%%Guide2-3-min%%)
-![](%%Guide2-4-min%%)
-![](%%Guide2-6-min%%)
+![](%%5-CC-Menu-min%%)
 
 &amp;nbsp;
 
-**3. Replace Try with Install buttons using Windows Powershell as ADMIN**
+**2. Download the latest Genp in the guide - Extract ALL contents from zip**
 
-Click Windows Button and write "Windows Powershell" right-click, Run as Administrator.
-
-&amp;nbsp;
-
-**Copy-Paste (CTRL+C / CTRL+V) the following into Powershell to stop CC processes and hit ENTER after each one:**
-
-```Stop-Process -Name "Adobe Desktop Service" -force```
+&gt; Once you have the `.zip` file, Right-click and "Extract All" contents.
 
 &amp;nbsp;
 
-**Then enter the following command to create a backup of your current Apps Panel:**
+&gt; ⚠️*Possible Problem &amp; Solution - Step 2*
 
-```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak"```
-
-&amp;nbsp;
-
-**After creating a backup with the above command, apply the Apps Panel patch by pasting the entirety of the following codeblock into PowerShell (it must not show errors):**
-
-- *Be aware due to reddit formatting, copy the entirety of the code, paste into a notepad, remove the spaces between the lines and copy-paste (CTRL+C / CTRL+V) it into powershell. - Sorry for the extra work*
-
-```$bytes  = [System.IO.File]::ReadAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll")```
-
-```$bytes[1116554] = 0xfe```
-
-```$bytes[1216383] = 0xfe```
-
-```$bytes[1987439] = 0xfe```
-
-```$bytes[2150557] = 0xfe```
-
-```$bytes[2151982] = 0xfe```
-
-```$bytes[2152497] = 0xfe```
-
-```$bytes[2153297] = 0xfe```
-
-```$bytes[2279801] = 0xc6```
-
-```$bytes[2279802] = 0x40```
-
-```$bytes[2279811] = 0xc6```
-
-```$bytes[2279812] = 0x40```
-
-```$bytes[2279821] = 0xc6```
-
-```$bytes[2279822] = 0x40```
-
-```[System.IO.File]::WriteAllBytes("C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll", $bytes)```
-
-![](%%PowerShell-Confirm%%)
-
-If the console prints no errors, **restart your machine**. Upon startup, Creative Cloud will be ready for use.
+&gt; ⚠️ Antivirus may sometimes delete or move files into quarantine. You can either whitelist as safe or disable antivirus while extracting. This will fix the issue of **.exe** not showing in the folder after extracted.
 
 &amp;nbsp;
 
-If you receive an error stating that the file is being used by another process, then Creative Cloud is still partially running. Enter
+**3. Patch CreativeCloud with "Patch CC" button**
 
-```Stop-Process -Name "Adobe Desktop Service" -force```
+&gt; With current updated version of GenP opened, press the button that says "Patch CC"
 
-&gt; then re-enter the same Big codeblock from before again. It must not show errors.
+&gt; The patch run automatically and perform all the necessary actions (do not touch anything until done)
 
-![](%%PowerShell-errors%%)
-
-&amp;nbsp;
-
-**Use the following commands in PowerShell (admin) if your apps are warning you of unlicensed or non-genuine usage.** - add one line at a time, and press ENTER after each one.
-
-```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tic.adobe.io" -Force```
-
-```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`tm59b4msyph.adobe.io" -Force```
-
-```Add-Content -Path $env:windir\System32\drivers\etc\hosts -Value "`n0.0.0.0`t7g2gzgk9g1.adobe.io" -Force```
+&gt; You will know its finished when it switches to the log menu (this is only informational, continue with the guide)
 
 &amp;nbsp;
 
-If you prefer to do this manually, you can add the following lines to the system hosts file (located in `C:\Windows\System32\drivers\etc)` using a text editor of your choice:
+&gt; ⚠️*Possible Problem &amp; Solution - Step 3*
 
-```# BLOCK AD0BE (current as of 26/11/2023) #```
+&gt; ⚠️ If you get "M2-Team NSUDO Launcher - Error: Failed to create a process", mouse gets stuck on loading or GenP doesn't open:
 
-```0.0.0.0 ic.adobe.io```
+&gt; `CTRL+SHIFT+ESC`, in the "Processes" tab look for the GenP Process, Right-Click on it - "EndTask"
 
-```0.0.0.0 m59b4msyph.adobe.io```
+&gt; Then delete the NSUDO file from the extracted files, try opening GenP again - If working now, redo the proper step.
 
-```0.0.0.0 7g2gzgk9g1.adobe.io```
+&amp;nbsp;
+
+&gt; 💁‍♂️ *Every time CC gets updated, you must apply the "Patch CC" again.*
+
+![](%%8-GenP-Menu-min2%%)
+![](%%PatchingCCButton-min%%)
 
 &amp;nbsp;
 
 **4. Open Creative Cloud &gt; Apps &gt; Install**
 
+**On the side menu, if you click on "Apps"**
+
 &gt; You should now have the install button, install all the apps you want, wait until everything is installed and DON'T OPEN ANY YET.
 
-**Once that is done go `Menu &gt; File &gt; Exit Creative Cloud`**
+**Once once everything you want is installed go `Menu &gt; File &gt; Exit Creative Cloud`**
 
-![](%%Guide2-11-min%%)
+![](%%6-CC-Menu-Install-min%%)
 
 &amp;nbsp;
 
 **5. Run GenP on the installed apps**
 
-&gt; Open `GenP folder &gt; Resources &gt; Run GenP file`
+&gt; Open `GenP folder &gt; Run "AdobeGenP.exe"`
 
-&gt; If you're having issues opening it, turn AntiVirus OFF and try again, however **don't forget to turn it back ON after its patched**.
+&gt; Click on the button **"Search"** and wait. *(it will look at the default locations in `C:`)* - *(The "Path" is if apps were installed somewhere else, most likely you'll never need to use this option tho)*
 
-&gt; Click **"Search Files"** and wait. *(will look at the default locations, use custom path if installed somewhere else)*
+&gt; In case you have any programs you don't want to patch, you can de-select the respective paths.
 
-&gt; You can de-select paths in case you have any programs you dont want to patch. (in case of using Monkrus Acrobat)
-
-&gt; Finally click the **PILL** to run the patch.
-
-![](%%Guide2-14-min%%)
+&gt; Finally click on the button **"PATCH"** to run the patch on the apps and wait until its done.
 
 &amp;nbsp;
 
-**OPEN THE APPS THROUGH THEIR .EXE and NOT FROM Creative Cloud;**
+&gt; ⚠️*Possible Problem &amp; Solution - Step 5*
 
-&gt; Meaning Windows button, write name of app you wanna use that was patched &gt; Open
+&gt; ⚠️ If you're having issues opening it, turn AntiVirus OFF and try again, however **don't forget to turn it back ON after its patched**.
+
+&amp;nbsp;
+
+&gt; 💁‍♂️ *Every time the apps get updated, you must apply the "Patch" on the respective apps again.*
+
+![](%%8-GenP-Menu-min2%%)
+![](%%PatchingAppsButtons-min%%)
+
+&amp;nbsp;
+
+**6. OPEN THE APPS THROUGH THEIR `.EXE` and NOT FROM Creative Cloud directly;**
+
+&gt; Be aware you are free to pin the apps and open them from taskbar, start, .exe, shortcut, etc... The important part is: Don't open CC just to click OPEN on, for example, Photoshop...  
 
 **Everything should be working now! End of Guide.**
 
 &amp;nbsp;
 
-➜ **Optional, therefore ignore - Block Each Installed app via Firewall**
+&gt; ⚠️ **Installing/Updating - Possible Problem &amp; Solution**
 
-*(In case of issues like app will be disabled, day counter, unable to launch app due to some popup)*
-
-&gt; Go to `Windows Firewall &gt; Advanced Settings`
-
-&gt; Create **Inbound and Outbound** rule on each app with issues
-
-**Structure is the following:**
-
-&gt; File Type: Program
-
-&gt; Program: It's necessary to select the actual "program".exe inside the folder that was installed because the shortcut will not work.
-
-&gt;&gt; **Typical path example would be:** `C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe` (Find the proper path for the app you need)
-
-&gt; Action: Block Connection
-
-&gt; Profile: All
-
-&gt;&gt; Name: Name it whatever you want to know what's blocking.
+&gt; Always check the monthly **[Compatibility List][5]** before updating any apps, otherwise don't update.
 
 &amp;nbsp;
 
-➜ **Optional, therefore ignore - Block AGS via Firewall** - *(similar to step 4)*
-
-&gt; Create both **Inbound** and **Outbound** rules on **Adobe Genuine Service**
-
-Path of AGS - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AdobeGenuineClient\AGSService.exe`
+&gt; **APPS: If you want to install more apps / update them**, hit "Install/Update" on said app, let it download, and then **run GenP** on them again, using the "Search" Button, and then the "Patch" Button.
 
 &amp;nbsp;
 
-**How to Uninstall AGS - Adobe Genuine Service**
-
-Open PowerShell, as admin, and enter:
-
-```[System.Diagnostics.Process]::Start("C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AdobeCleanUpUtility.exe")```
-
-and follow the on-screen instructions.
-
-If that directory is absent then the service won’t be installed. 
+&gt; **CC: If you update CC**, hit "Update", let it update, and then **run GenP** on it again, using the "Patch CC" Button.
 
 &amp;nbsp;
 
-**To Restore AppsPannel**
+&gt; If any other issues occur, Run GenP on compatibility mode to Windows 10/11.
 
-To restore from the previously made backup, use the following command:
-
-&gt; ```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll"```
-
-If no errors are printed to the console, restart your machine. Upon startup, Creative Cloud will be returned to normal functionality—
-
-![](%%PowerShell-Restore%%)
-
-&amp;nbsp;
-
-⚠️ **ATTENTION**
-
-&gt; Always check first the monthly **[Compatibility List][5]** before updating any apps, otherwise don't update.
-
-&gt; If you want to install / update more apps, hit "**Install/Update**" on New app, let it download, and **run GenP** on them again.
-
-&gt; If something ain't working properly check **[Issues Fix][36]**
+&gt; If something ain't working properly or you get the Unlicensed Popup, check the **[TROUBLESHOOT SECTION | UNLICENSED POPUP]** towards the bottom of the guides page.
 
 &amp;nbsp;
 
@@ -431,13 +332,13 @@ If no errors are printed to the console, restart your machine. Upon startup, Cre
 
 **[Video Tutorial](https://youtu.be/jezUElhqrRA)** *(0 to 7:20 only)*
 
-**DOWNLOADS NEEDED**
+**DOWNLOADS / TOOLS NEEDED**
 
-&gt;🔗 **[Creative Cloud CLEANER TOOL][10]**
+&gt;🔗 **[Creative Cloud CLEANER TOOL][13]**
 
 Another option (but not covered below)
 
-&gt;🔗 **[Revo Uninstaller (Optional)][13]**
+&gt;🔗 **[Revo Uninstaller (Optional)][14]**
 
 &amp;nbsp;
 
@@ -569,70 +470,6 @@ Another option (but not covered below)
 
 &amp;nbsp;
 
-# ► **Guide #6 - Remove "Trial Expires in XX Days" / "Trial Ended" / "Trial Popup" Banner**
-
-*- Thanks songmj36, Lian, Louis*
-
-**THIS IS ONLY AESTHETIC! IF THE PATCH WORKS, AFTER TRIAL ENDS THE APP CONTINUES TO WORK. Don't lose your head because its counting down or says it ended.**
-
-**1. Remove "Trial Expires in XX Days" Banner**
-
-&gt; Edit *(as admin)* the file located in
-
-&gt; **For Photoshop and others:** `Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start\css\styles.css`
-
-&gt; **For Illustrator:** `Program Files\Adobe\Adobe Illustrator 20XX\Support Files\Required\UXP\extensions\com.adobe.ccx.start\css\styles.css`
-
-&gt;&gt; For **4.3.0** search for {*"background-color":"#1473E6"*} replace with {**"display":"none"**}
-
-&gt;&gt; For **4.2.0 or below**: search for {*background-color:#1473E6*} replace with {**display:none**}
-
-⚠️ **ATTENTION: Color code has changed NEW -&gt; background-color:#D7373F**
-
-&amp;nbsp;
-
-**2. Remove "Trial Ended" Banner**
-
-&gt; Edit *(as admin)* the file located in
-
-&gt; **For Photoshop and others:** `Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start\css\styles.css`
-
-&gt;&gt;After a certain update on Photoshop, the location of the "css" becomes the same path as Illustrator, but for Adobe Photoshop 20XX.
-
-&gt; **For Illustrator:** `Program Files\Adobe\Adobe Illustrator 20XX\Support Files\Required\UXP\extensions\com.adobe.ccx.start\css\styles.css`
-
-&gt;&gt; For **4.3.0** search for {*"background-color":"#e34859"*} replace with {**"display":"none"**}
-
-&gt;&gt; For **4.2.0 or below**: search for {*background-color:#e34859*} replace with {**display:none**}
-
-⚠️ **ATTENTION: Color code has changed NEW -&gt; background-color:#D7373F**
-
-&amp;nbsp;
-
-**3. Remove Trial Popup:** *(example: No UXP folder found)*
-
-*- Thanks u/narcarsiss*
-
-This is for Adobe 2020, but may work with other installs.
-
-**Confirmed working for InDesign, Photoshop and Dreamweaver!**
-
-&gt; **Navigate to:**
-
-&gt;&gt; `C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\locales`
-
-&gt; **Remove your Language for me I removed:**
-
-&gt;&gt; example: "en-US.pak" and "en-GB.pak" 
-
-**No more trial popup :)**
-
-&amp;nbsp;
-
----
-
-&amp;nbsp;
-
 # 🐒 **Guide #7 - Monkrus Individual (Easiest Method)**
 
 * **[Video Tutorial: Monkrus Individual / Collection Install](https://odysee.com/adobe-master-collection-free:c)**
@@ -641,11 +478,11 @@ This is for Adobe 2020, but may work with other installs.
 
 **DOWNLOAD NEEDED**
 
-&gt;🔗 **[Torrent Software - qbittorrent][17]**
+&gt;🔗 **[Torrent Software - qbittorrent][16]**
 
 **ADDITIONAL DOWNLOAD OPTIONS** *(most recent sorted by release-date)*
 
-&gt;🔗 **[Monkrus Individual - Lightroom Classic][15]**
+&gt;🔗 **[Monkrus Individual - Lightroom Classic][17]**
 
 &gt;🔗 **[Monkrus Individual - Photoshop][18]**
 
@@ -653,19 +490,15 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - Premiere Pro][20]**
 
-&gt;🔗 **[Monkrus Individual - Media Encoder][31]**
-
-&gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions*
+&gt;🔗 **[Monkrus Individual - Media Encoder][31]** *(Must match same version of Premiere / After Effects to properly work)*
 
 &gt;🔗 **[Monkrus Individual - After Effects][21]**
 
-&gt;🔗 **[Monkrus Individual - Animate][22]**
+&gt;🔗 **[Monkrus Individual - Animate][22]** *(PRO version doesn't work)*
 
-&gt;🔗 **[Monkrus Individual - Character Animator][23]**
+&gt;🔗 **[Monkrus Individual - Character Animator][23]** *(PRO version doesn't work)*
 
-&gt;🔗 **[Monkrus Individual - Acrobat PRO][24]**
-
-&gt;&gt; *Get the x64 versions only*
+&gt;🔗 **[Monkrus Individual - Acrobat PRO][24]** *(get only x64 versions only)*
 
 &gt;🔗 **[Monkrus Individual - Substance][25]**
 
@@ -675,7 +508,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt;🔗 **[Monkrus Individual - InDesign][28]**
 
-&gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]**
+&gt;🔗 **[Monkrus Individual - Speech to Text Add-on for Premiere][29]** *(Must be compatible with the same version of Premiere)*
 
 &gt;&gt; *Check description in tracker for compatibility with Premiere / After Effects versions - "extracted from ... version"*
 
@@ -695,7 +528,7 @@ This is for Adobe 2020, but may work with other installs.
 
 **Instructions to Install Monkrus Individual:**
 
-**1. Download and Install the [Torrent Software - qbittorrent][17]**
+**1. Download and Install the [Torrent Software - qbittorrent][16]**
 
 &amp;nbsp;
 
@@ -705,13 +538,15 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt; To translate the page to your language - on the top-right says "Translate with flags icons",
 
+![](%%MonkTranslate%%)
+
 &gt; Go down until you find "DOWNLOAD FROM THE TORRENT TRACKER OF YOUR CHOICE"
 
 &amp;nbsp;
 
 &gt; **On Rutracker:**
 
-&gt; Requires registration for the magnet link to appear.
+&gt; Requires an account registration for the magnet link to appear (temporary mail can be used).
 
 &gt; Small **Magnet Icon** *(should be right in the middle of the page)* or download the .torrent file and then open it with Torrent Software to extract it.
 
@@ -721,7 +556,7 @@ This is for Adobe 2020, but may work with other installs.
 
 &gt; **On PB.WTF:**
 
-&gt; Does not require registration
+&gt; Should not require registration
 
 &gt; "Magnet ссылка" on the right (next to green and blue buttons)
 
@@ -729,7 +564,19 @@ This is for Adobe 2020, but may work with other installs.
 
 &amp;nbsp;
 
-&gt; Let it download. *(once it says "Seeding", it's been downloaded)*
+&gt; Once you click in said magnet, you should get these prompts or similar, which you'll want to allow and choose "Qbit" to open the link.
+
+![](%%MonkPrompt-Magnet%%)
+
+&amp;nbsp;
+
+&gt; Now you should choose where you want the files to be downloaded to, make sure everything of the files is selected and click "OK" to start
+
+![](%%qBit-Prompt%%)
+
+&gt; Let it download. *(when it reaches 100% it changes from "Downloading" into "Seeding", the files have been downloaded, you can simply right click it and choose remove)*
+
+![](%%qBit-Prompt-Complete%%)
 
 &amp;nbsp;
 
@@ -759,10 +606,11 @@ This is for Adobe 2020, but may work with other installs.
 
 **🪙 To update Monkrus just install the newer version on top of the old one**
 
+&gt; If something ain't working properly or you get the Unlicensed Popup, check the **[TROUBLESHOOT SECTION | UNLICENSED POPUP]** towards the bottom of the guides page.
+
 &amp;nbsp;
 
 ---
-
 &amp;nbsp;
 
 # ► **Guide #8 - Blocking unnecessary Adobe Background processes(PS/DC)**
@@ -782,9 +630,9 @@ All you have to do is rename these 4 exe-files.
 &gt; 4. `C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\CCLibrary.exe`
 
 
---&gt; Just add another letter after the ".exe". 
+--&gt; Just add ".bak" after the ".exe". 
 
-For example: "CoreSync.exe"--&gt;"CoreSync.exeW"
+For example: "CoreSync.exe"--&gt;"CoreSync.exe.bak"
 
 (If you dont see ".exe" in the file name, you need to make the file name extensions visible in your explorer)
 
@@ -796,10 +644,10 @@ All you have to do is rename these exe-file.
 
 &gt; 1. `C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe`
 
---&gt; Just add another letter after the ".exe". 
+--&gt; Just add ".bak" after the ".exe". 
 
 
-For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
+For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exe.bak"
 
 (If you dont see ".exe" in the file name, you need to make the file name extensions visible in your explorer)
 
@@ -851,49 +699,190 @@ For example: "AdobeCollabSync.exe"--&gt;"AdobeCollabSync.exeV"
 
 &amp;nbsp;
 
-# 📑 **Guide #10 - ACROPOLIS: ADOBE ACROBAT PRO DC (Standalone/CC-less)**
+# (...) **TROUBLESHOOT SECTION | UNLICENSED POPUP**
 
-- Thanks u/Verix- , from GenP Discord.
+![](%%Unlicensed-MergeFix%%)
 
-**DOWNLOADS NEEDED**
+All following options are towards avoiding either credit card / unlicensed or disabled pop-ups.
 
-&gt;🔗 **[Acropolis V1.11][34]**
+These can be used across the methods of GenP or Monkrus.
+
+- 1️⃣ Option - PowerShell Cmd / Manual Host File Block;
+
+- 2️⃣ Option - FIREWALL RULE on App-in-question.exe (disconnecting access to or from internet);
+
+- 3️⃣ Option - RESTORE (Reverse of option 1 and 2) (Fix CC not loading / loading continuously);
+
 
 &amp;nbsp;
 
-⚠️ **ATTENTION**
+❗ 𝗣𝗟𝗘𝗔𝗦𝗘 𝗥𝗘𝗔𝗗 𝗔𝗡𝗗 𝗦𝗧𝗢𝗣 𝗔𝗦𝗞𝗜𝗡𝗚 𝗜𝗧 𝗢𝗩𝗘𝗥 𝗔𝗡𝗗 𝗢𝗩𝗘𝗥 𝗔𝗚𝗔𝗜𝗡 ❗
 
-&gt; * Supports Acrobat Pro | Version 2023.006.20380) | 64-bit
+⚠️ If your windows firewall is being managed by your antivirus (should say "firewall is being managed by third-party" or something similar) then all the changes below must be applied in said Antivirus firewall (that's on you to figure out all of them have different menus and places, however the paths to block are the same) - Also whichever is "the boss" it must remain ON.
 
-&gt; * This method may be outdated after the next Acrobat update, so it is recommended to visit the Discord server for the latest information.
+- If you still getting after all those without any mistake, honestly Run guide 4 completely and try again. Otherwise, out of options.
 
-&gt; * It was created and tested as a standalone version, but should also work with Creative Cloud/GenP/Monkrus installed.
+&amp;nbsp;
 
-&gt; * Before starting, make sure there is no Adobe Acrobat Pro DC (or leftovers) installed on your computer.
+# (...) 1️⃣ **HOST FILE BLOCK LIST (updated regularly)**
 
-&gt; * Don't use GenP to patch this version of Acrobat!
+**1. Use the following command in PowerShell (as admin) if your apps are warning you of unlicensed or non-genuine usage:**
 
-&gt; * If you are facing problems, try disabling your antivirus temporarily.
+&gt; `Stop-Process -Name "Adobe Desktop Service" -force`
+
+![](%%Powershell%%)
+
+&amp;nbsp;
+
+⚠️ The Host Lines in the Genp "Pop-up" button option may not always be up-to-date (due to when a new line is found), therefore always check to see if the lines added matches the ones written below. If some lines are missing either wait for the update or add it manually afterwards.
+
+**2. Open Notepad (as admin)**, go to FILE &gt; OPEN &gt; `C:\Windows\System32\drivers\etc` &lt;- Copy paste this directory to the file explorer bar, press enter and select the file "hosts"
+
+⚠️ (If you do not see it, make sure you're looking for `"All file types (*.*)` and NOT `Text files (*.txt)`)
+
+![](%%Host-location%%)
+
+&amp;nbsp;
+
+**3. Copy the whole block of text from (https://a.dove.isdumb.one/list.txt) and paste into a blank line on your host file. After that is done, save it.**
+
+Done.
+
+&gt; *You can learn how to find any new IPs to block using Fiddler Classic: [psnfoandhostblock (rentry.co)](https://rentry.co/psnfoandhostblock#information-on-getting-the-new-ips-as-they-change)*
 
 &amp;nbsp;
 
 ---
 
-**Instructions to Acropolis:**
+&amp;nbsp;
 
-**1. Download and extract Acropolis.** 
+# (...) 2️⃣ **FIREWALL RULE on App-in-question.exe**
 
-**2. Right-click on the batch file and select "Run as administrator" from the context menu.**
+If the Host lines (updated and correctly applied) aren't being enough to stop it, you can experiment with the following:
 
-**3. The script will now run and perform the necessary actions.**
+&gt; Go to `Windows Firewall &gt; Advanced Settings`
 
-**4. The official Acrobat DC Pro setup will start. Make sure to leave everything on default and do NOT close the installer. After the installation, click FINISH!**
+⚠️ If you see this warning, All firewall rules must be done in your antivirus firewall settings, and not on windows defender firewall (otherwise they will have no effect) - But just in case, have in both lol
+
+![](%%Firewall%%)
+
+Outbound Rules should be more than enough. Only do both if the first doesn't work.
+
+![](%%Firewall-Outbound%%)
 
 &amp;nbsp;
 
-**Optional, but recommended: Avoid updates and disable updates in Acrobat settings.**
+&gt; Create **Outbound** rule on each app with issues
 
-&gt; Go to `Acrobat: Edit &gt; Preferences &gt; Updater`. Uncheck everything and click OK.
+**Structure is the following:**
+
+&gt; **File Type:** Program
+
+&gt; **Program:** It's necessary to select the actual "program".exe inside the folder that was installed because the shortcut will not work.
+
+When looking for the program path, we want the Actual Program \".exe\" and not the shortcuts. How to distinct them - LEFT: SHORTCUT \".EXE\" | RIGHT: ACTUAL \".EXE\"
+
+![](%%Shortcun-vs-Real-EXE%%)
+
+&amp;nbsp;
+
+&gt;&gt; **Typical path example would be:** `C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe` (Find the proper path for the app you need)
+
+&gt; **Action:** Block Connection
+
+&gt; **Profile:** All
+
+&gt;&gt; **Name:** Name it whatever you want to know what's blocking.
+
+⚠️ **If the issue persist, you can create the same rules for "Inbound"**
+
+&amp;nbsp;
+
+You will lose internet access going out from the application, at the same time, the license also wont be able to check if good or bad.
+
+Outside of that, unplug internet problem solved lol
+
+&amp;nbsp;
+
+---
+
+&amp;nbsp;
+
+# (...) 3️⃣ **RESTORE (reverse of options 1 and 2)**
+
+Most probably because of Host file edits or Firewall rules (including outdated ones) that are either working against each other or blocking something that shouldnt be blocked.
+
+**Reverse Hosts File edit:**
+
+**1. Open Notepad (as admin)**, go to FILE &gt; OPEN &gt; `C:\Windows\System32\drivers\etc` &lt;- Copy paste this directory to the file explorer bar, press enter and select the file "hosts"
+
+⚠️ (If you do not see it, make sure you're looking for `"All file types (*.*)` and NOT `Text files (*.txt)`)
+
+&amp;nbsp;
+ 
+**2. Remove all lines related to adobe stuff, save the file and reboot your system**
+
+&gt; This should fix the looping and bring CC to its default behavior, but at the same time will be open to internet - which may cause issues for the apps currently installed.
+
+&gt; If it happens, do **Option 2 and create an Outbound rule** for the programs `.exe` malfunctioning.
+
+&amp;nbsp;
+
+**Reverse Firewall Rule:**
+
+&gt; `Windows &gt; Windows Firewall &gt; Advanced Settings`  
+ 
+&gt; Check both **Inbound and Outbound**  
+ 
+&gt; **Disable** or remove any rules that are applied to AD0BE or other firewall rules you created or asked in the guides.
+
+&amp;nbsp;
+
+**If neither of these have fixed the issue,**
+
+&gt; Please uninstall everything to the max using [☢️ Guide #4 - NOTHING IS WORKING / FULL CLEANING](https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.2622.FE0F_guide_.234_-_nothing_is_working_.2F_full_cleaning) and restart the respective guide you were doing from the beginning. This should ensure a clean slate.
+
+**If still not working let us know - but please be specific on:**
+
+&gt; What method you have (genp or monkrus);  
+
+&gt; Which of these fixes didnt work;  
+
+&gt; What problem still happens;
+
+&amp;nbsp;
+
+➜ **Optional - Block AGS via Firewall**
+
+&gt; Create **Outbound** rules on **Adobe Genuine Service**
+
+Path of AGS - `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AdobeGenuineClient\AGSService.exe`
+
+⚠️ **If the issue persist, you can create the same rules for "Inbound"**
+
+&amp;nbsp;
+
+➜ **Optional - Uninstall AGS - Adobe Genuine Service**
+
+Open PowerShell, as admin, and enter:
+
+```[System.Diagnostics.Process]::Start("C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AdobeCleanUpUtility.exe")```
+
+and follow the on-screen instructions.
+
+If that directory is absent then the service won’t be installed. 
+
+&amp;nbsp;
+
+➜ **Restore AppsPannel (vanilla)**
+
+Only if you want to restore from the previously made backup and move into official paid functionality, use the following command:
+
+&gt; ```cp "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll.bak" "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel\AppsPanelBL.dll"```
+
+If no errors are printed to the console, restart your machine. Upon startup, Creative Cloud will be returned to normal functionality—
+
+![](%%PowerShell-Restore%%)
 
 &amp;nbsp;
 
