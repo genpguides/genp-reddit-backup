@@ -46,7 +46,7 @@ jobs:
       - name: Commit the changes
         run: |
           git add .
-          git commit -m '♻️ Last Updated on $(date +'%d-%m-%Y')'
+          git commit -m '♻️ Update Page'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.OSLASH_BOT_GITHUB_TOKEN }}
